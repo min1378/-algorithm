@@ -6,7 +6,6 @@ sys.stdin = open("input.txt", "r")
 
 def check(ls):
     result = 0
-
     for M in range(len(ls), -1, -1): 
         for i in range(len(ls)):
             for j in range(len(ls)-M+1):
