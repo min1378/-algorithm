@@ -1,9 +1,11 @@
 import sys
 sys.stdin = open("input.txt", "r")
-              
+# 리스트안에 담긴 괄호를 검사하는 inspect 함수
 def inspect(temp) :
     stack = []
-    for i in temp :        
+    # temp 리스트를 확인한다.
+    for i in temp :
+        # 
         if stack != [] and stack[-1] == '(' and i == ')' :
             stack.pop()
         elif stack != [] and stack[-1] == '{' and i == '}' :

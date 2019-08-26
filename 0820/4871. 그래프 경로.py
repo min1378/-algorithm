@@ -19,37 +19,17 @@ def search(data, start, end):
             elif 1 not in data[i]: 
                 visited[i] = True         
         i = stack.pop()
-         
-        
-
-
-
-
 
 T = int(input())
 for test_case in range(1, T + 1):
 
-    VE = list(map(int, input().split()))
-    V = VE[0]
-    E = VE[1]
-    temp1 = []
-
-    for i in range(E):
-        temp1.append(list(map(int,(input().split())))) 
-    temp2 = list(map(int,(input().split())))
-
-    start = temp2[0]
-    end = temp2[1]
-
+    V, E = map(int, input().split())
     data = []
 
-    for i in range(V+1):
-        temp =[]
-        for j in range(V+1):
-            temp.append(0)
-        data.append(temp)
-    for i in range(len(temp1)):
-        data[temp1[i][0]][temp1[i][1]] = 1
-    
+    for i in range(E):
+        start_node, end_node = map(int, input().split())
+        data[start_node][end_node] = 1
+    start, end = map(int, input().split())
+
     result = search(data, start, end)
     print('#{} {}'.format(test_case, result))

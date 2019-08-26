@@ -3,18 +3,11 @@ sys.stdin = open("input.txt", "r")
               
 T = 10
 for test_case in range(1, T + 1):
-    VE = list(map(int,input().split()))
+    V, E = map(int,input().split())
     temp = list(map(int, input().split()))
     info = []
-    data = []
-    V = VE[0]
-    E = VE[1]
-    # data V X V 빈 행렬을 만든다.
-    for i in range(VE[0]+1):
-        temp1 = []
-        for j in range(VE[0]+1):
-            temp1.append(0)
-        data.append(temp1)
+    # data (V+1) X (V+1)빈 행렬을 만든다.
+    data= [[0] * (V + 1) for _i in range(V + 1)]
     # data 행렬에 간선 데이터를 입력 1 => 연결되어 있음.
     for i in range(len(temp)):
         if i % 2 == 0 :
