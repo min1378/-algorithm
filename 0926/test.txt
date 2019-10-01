@@ -1,0 +1,3127 @@
+0.9153598282400295
+Test feature: TransactionAmt_card1 / interaction of TransactionAmt and card1
+Score = 0.9162589324442805
+Test feature: TransactionAmt_card2 / interaction of TransactionAmt and card2
+Score = 0.9162742992032088
+Test feature: TransactionAmt_card3 / interaction of TransactionAmt and card3
+Score = 0.9163064491640105
+Test feature: TransactionAmt_card4 / interaction of TransactionAmt and card4
+Score = 0.9163402216376073
+Test feature: TransactionAmt_card5 / interaction of TransactionAmt and card5
+Score = 0.9164518479132988
+Test feature: TransactionAmt_card6 / interaction of TransactionAmt and card6
+Score = 0.9162822168051881
+Test feature: TransactionAmt_addr1 / interaction of TransactionAmt and addr1
+Score = 0.9163581328612421
+Test feature: TransactionAmt_dist1 / interaction of TransactionAmt and dist1
+Score = 0.9163075649288293
+Test feature: TransactionAmt_dist2 / interaction of TransactionAmt and dist2
+Score = 0.9163659045289968
+Test feature: TransactionAmt_P_emaildomain / interaction of TransactionAmt and P_emaildomain
+Score = 0.9163161168275951
+Test feature: TransactionAmt_R_emaildomain / interaction of TransactionAmt and R_emaildomain
+Score = 0.9163052184903538
+Test feature: TransactionAmt_C1 / interaction of TransactionAmt and C1
+Score = 0.9163923956125483
+Test feature: TransactionAmt_C2 / interaction of TransactionAmt and C2
+Score = 0.9163909060109762
+Test feature: TransactionAmt_C4 / interaction of TransactionAmt and C4
+Score = 0.9162635713140773
+Test feature: TransactionAmt_C5 / interaction of TransactionAmt and C5
+Score = 0.9162945875076759
+Test feature: TransactionAmt_C6 / interaction of TransactionAmt and C6
+Score = 0.9161955429837046
+Test feature: TransactionAmt_C7 / interaction of TransactionAmt and C7
+Score = 0.9162935935462256
+Test feature: TransactionAmt_C9 / interaction of TransactionAmt and C9
+Score = 0.9161886469212968
+Test feature: TransactionAmt_C11 / interaction of TransactionAmt and C11
+Score = 0.9161102932657557
+Test feature: TransactionAmt_C12 / interaction of TransactionAmt and C12
+Score = 0.916312472302278
+Test feature: TransactionAmt_C13 / interaction of TransactionAmt and C13
+Score = 0.9161953238908532
+Test feature: TransactionAmt_C14 / interaction of TransactionAmt and C14
+Score = 0.916286485668526
+Test feature: TransactionAmt_D1 / interaction of TransactionAmt and D1
+Score = 0.916389145224546
+Test feature: TransactionAmt_D2 / interaction of TransactionAmt and D2
+Score = 0.916396852160322
+Test feature: TransactionAmt_D3 / interaction of TransactionAmt and D3
+Score = 0.9162935295803057
+Test feature: TransactionAmt_D4 / interaction of TransactionAmt and D4
+Score = 0.9163974803286373
+Test feature: TransactionAmt_D5 / interaction of TransactionAmt and D5
+Score = 0.9163674209426311
+Test feature: TransactionAmt_D6 / interaction of TransactionAmt and D6
+Score = 0.9163514390383892
+Test feature: TransactionAmt_D8 / interaction of TransactionAmt and D8
+Score = 0.9163737451420546
+Test feature: TransactionAmt_D9 / interaction of TransactionAmt and D9
+Score = 0.9162199664742281
+Test feature: TransactionAmt_D10 / interaction of TransactionAmt and D10
+Score = 0.9163610772087054
+Test feature: TransactionAmt_D11 / interaction of TransactionAmt and D11
+Score = 0.9163218833361239
+Test feature: TransactionAmt_D12 / interaction of TransactionAmt and D12
+Score = 0.9162978892216258
+Test feature: TransactionAmt_D14 / interaction of TransactionAmt and D14
+Score = 0.9162586198922408
+Test feature: TransactionAmt_D15 / interaction of TransactionAmt and D15
+Score = 0.9163397336580744
+Test feature: TransactionAmt_M4 / interaction of TransactionAmt and M4
+Score = 0.9163015161275878
+Test feature: TransactionAmt_M5 / interaction of TransactionAmt and M5
+Score = 0.9163480385028384
+Test feature: TransactionAmt_M6 / interaction of TransactionAmt and M6
+Score = 0.9162783964693485
+Test feature: TransactionAmt_M8 / interaction of TransactionAmt and M8
+Score = 0.9162614592896319
+Test feature: TransactionAmt_M9 / interaction of TransactionAmt and M9
+Score = 0.9162183363008438
+Test feature: TransactionAmt_V45 / interaction of TransactionAmt and V45
+Score = 0.916365829838252
+Test feature: TransactionAmt_V62 / interaction of TransactionAmt and V62
+Score = 0.9162596969710839
+Test feature: TransactionAmt_V76 / interaction of TransactionAmt and V76
+Score = 0.9162335674673431
+Test feature: TransactionAmt_V82 / interaction of TransactionAmt and V82
+Score = 0.9163149868906867
+Test feature: TransactionAmt_V83 / interaction of TransactionAmt and V83
+Score = 0.9162708680253011
+Test feature: TransactionAmt_V127 / interaction of TransactionAmt and V127
+Score = 0.9164198450358101
+Test feature: TransactionAmt_V130 / interaction of TransactionAmt and V130
+Score = 0.9162612976511993
+Test feature: TransactionAmt_V307 / interaction of TransactionAmt and V307
+Score = 0.9162242659799228
+Test feature: TransactionAmt_V308 / interaction of TransactionAmt and V308
+Score = 0.9163234246466732
+Test feature: TransactionAmt_V310 / interaction of TransactionAmt and V310
+Score = 0.9163818316600261
+Test feature: TransactionAmt_V312 / interaction of TransactionAmt and V312
+Score = 0.9162714555924936
+Test feature: TransactionAmt_V313 / interaction of TransactionAmt and V313
+Score = 0.9162785887501378
+Test feature: TransactionAmt_V314 / interaction of TransactionAmt and V314
+Score = 0.9162713544727161
+Test feature: TransactionAmt_V315 / interaction of TransactionAmt and V315
+Score = 0.9162786879547679
+Test feature: TransactionAmt_V317 / interaction of TransactionAmt and V317
+Score = 0.916254198200148
+Test feature: TransactionAmt_id_01 / interaction of TransactionAmt and id_01
+Score = 0.916315142017618
+Test feature: TransactionAmt_id_02 / interaction of TransactionAmt and id_02
+Score = 0.9163183127354925
+Test feature: TransactionAmt_id_05 / interaction of TransactionAmt and id_05
+Score = 0.9162963839158458
+Test feature: TransactionAmt_id_06 / interaction of TransactionAmt and id_06
+Score = 0.9163604436779775
+Test feature: TransactionAmt_id_13 / interaction of TransactionAmt and id_13
+Score = 0.9161917494599272
+Test feature: TransactionAmt_id_14 / interaction of TransactionAmt and id_14
+Score = 0.9162155735093449
+Test feature: TransactionAmt_id_18 / interaction of TransactionAmt and id_18
+Score = 0.9163039479816331
+Test feature: TransactionAmt_id_19 / interaction of TransactionAmt and id_19
+Score = 0.9163364380725957
+Test feature: TransactionAmt_id_20 / interaction of TransactionAmt and id_20
+Score = 0.9162996013633146
+Test feature: TransactionAmt_id_30 / interaction of TransactionAmt and id_30
+Score = 0.9163355919605175
+Test feature: TransactionAmt_id_31 / interaction of TransactionAmt and id_31
+Score = 0.9163141863591139
+Test feature: TransactionAmt_id_33 / interaction of TransactionAmt and id_33
+Score = 0.9162518732113224
+Test feature: TransactionAmt_DeviceInfo / interaction of TransactionAmt and DeviceInfo
+Score = 0.916330098551994
+Test feature: card1_card2 / interaction of card1 and card2
+Score = 0.9175439242749285
+Test feature: card1_card3 / interaction of card1 and card3
+Score = 0.9175478135560711
+Test feature: card1_card4 / interaction of card1 and card4
+Score = 0.9175310981504121
+Test feature: card1_card5 / interaction of card1 and card5
+Score = 0.9175648882433641
+Test feature: card1_card6 / interaction of card1 and card6
+Score = 0.9175481383650537
+Test feature: card1_addr1 / interaction of card1 and addr1
+Score = 0.9175802174654052
+Test feature: card1_dist1 / interaction of card1 and dist1
+Score = 0.9174885952863209
+Test feature: card1_dist2 / interaction of card1 and dist2
+Score = 0.9175394148690893
+Test feature: card1_P_emaildomain / interaction of card1 and P_emaildomain
+Score = 0.9174709495021024
+Test feature: card1_R_emaildomain / interaction of card1 and R_emaildomain
+Score = 0.9174983322782377
+Test feature: card1_C1 / interaction of card1 and C1
+Score = 0.917430387831317
+Test feature: card1_C2 / interaction of card1 and C2
+Score = 0.9174395196366864
+Test feature: card1_C4 / interaction of card1 and C4
+Score = 0.9175396174916739
+Test feature: card1_C5 / interaction of card1 and C5
+Score = 0.9174942250533322
+Test feature: card1_C6 / interaction of card1 and C6
+Score = 0.9174309914857469
+Test feature: card1_C7 / interaction of card1 and C7
+Score = 0.9175354263833164
+Test feature: card1_C9 / interaction of card1 and C9
+Score = 0.9174937987415427
+Test feature: card1_C11 / interaction of card1 and C11
+Score = 0.917533832597731
+Test feature: card1_C12 / interaction of card1 and C12
+Score = 0.9174966381389338
+Test feature: card1_C13 / interaction of card1 and C13
+Score = 0.9174934586113817
+Test feature: card1_C14 / interaction of card1 and C14
+Score = 0.9175751687540855
+Test feature: card1_D1 / interaction of card1 and D1
+Score = 0.917553375526868
+Test feature: card1_D2 / interaction of card1 and D2
+Score = 0.917475599096724
+Test feature: card1_D3 / interaction of card1 and D3
+Score = 0.9174352645624089
+Test feature: card1_D4 / interaction of card1 and D4
+Score = 0.9175615187331994
+Test feature: card1_D5 / interaction of card1 and D5
+Score = 0.9174961754393455
+Test feature: card1_D6 / interaction of card1 and D6
+Score = 0.9175337851020781
+Test feature: card1_D8 / interaction of card1 and D8
+Score = 0.917566802624608
+Test feature: card1_D9 / interaction of card1 and D9
+Score = 0.9175817235372441
+Test feature: card1_D10 / interaction of card1 and D10
+Score = 0.9175632170858277
+Test feature: card1_D11 / interaction of card1 and D11
+Score = 0.9175229740955537
+Test feature: card1_D12 / interaction of card1 and D12
+Score = 0.9175537757926543
+Test feature: card1_D14 / interaction of card1 and D14
+Score = 0.9174883761934695
+Test feature: card1_D15 / interaction of card1 and D15
+Score = 0.9176547075027776
+Test feature: card1_M4 / interaction of card1 and M4
+Score = 0.9175710098202028
+Test feature: card1_M5 / interaction of card1 and M5
+Score = 0.9175303811192621
+Test feature: card1_M6 / interaction of card1 and M6
+Score = 0.9176039783149618
+Test feature: card1_M8 / interaction of card1 and M8
+Score = 0.9175029382075012
+Test feature: card1_M9 / interaction of card1 and M9
+Score = 0.9175442793432385
+Test feature: card1_V45 / interaction of card1 and V45
+Score = 0.917514438284025
+Test feature: card1_V62 / interaction of card1 and V62
+Score = 0.9174633586242529
+Test feature: card1_V76 / interaction of card1 and V76
+Score = 0.9176267233703889
+Test feature: card1_V82 / interaction of card1 and V82
+Score = 0.9176314407612252
+Test feature: card1_V83 / interaction of card1 and V83
+Score = 0.9176672781466437
+Test feature: card1_V127 / interaction of card1 and V127
+Score = 0.9174898420472151
+Test feature: card1_V130 / interaction of card1 and V130
+Score = 0.9174551794131519
+Test feature: card1_V307 / interaction of card1 and V307
+Score = 0.9173953693628852
+Test feature: card1_V308 / interaction of card1 and V308
+Score = 0.917468669710753
+Test feature: card1_V310 / interaction of card1 and V310
+Score = 0.9174916871001265
+Test feature: card1_V312 / interaction of card1 and V312
+Score = 0.9176245121413131
+Test feature: card1_V313 / interaction of card1 and V313
+Score = 0.9177035115845246
+Test feature: card1_V314 / interaction of card1 and V314
+Score = 0.9176060206280455
+Test feature: card1_V315 / interaction of card1 and V315
+Score = 0.9176025113121278
+Test feature: card1_V317 / interaction of card1 and V317
+Score = 0.9174902564850912
+Test feature: card1_id_01 / interaction of card1 and id_01
+Score = 0.9175083082805381
+Test feature: card1_id_02 / interaction of card1 and id_02
+Score = 0.9174985134511727
+Test feature: card1_id_05 / interaction of card1 and id_05
+Score = 0.9175940693428171
+Test feature: card1_id_06 / interaction of card1 and id_06
+Score = 0.9175706053410925
+Test feature: card1_id_13 / interaction of card1 and id_13
+Score = 0.9176175214706283
+Test feature: card1_id_14 / interaction of card1 and id_14
+Score = 0.9174779443861109
+Test feature: card1_id_18 / interaction of card1 and id_18
+Score = 0.9174296520317233
+Test feature: card1_id_19 / interaction of card1 and id_19
+Score = 0.917572769840574
+Test feature: card1_id_20 / interaction of card1 and id_20
+Score = 0.9174508270493916
+Test feature: card1_id_30 / interaction of card1 and id_30
+Score = 0.9175581067067649
+Test feature: card1_id_31 / interaction of card1 and id_31
+Score = 0.9175583047329959
+Test feature: card1_id_33 / interaction of card1 and id_33
+Score = 0.9175554300968943
+Test feature: card1_DeviceInfo / interaction of card1 and DeviceInfo
+Score = 0.9175352367837334
+Test feature: card2_card3 / interaction of card2 and card3
+Score = 0.9166557835229272
+Test feature: card2_card4 / interaction of card2 and card4
+Score = 0.916672379806424
+Test feature: card2_card5 / interaction of card2 and card5
+Score = 0.9166902837524991
+Test feature: card2_card6 / interaction of card2 and card6
+Score = 0.9166803111974636
+Test feature: card2_addr1 / interaction of card2 and addr1
+Score = 0.9169444816370308
+Test feature: card2_dist1 / interaction of card2 and dist1
+Score = 0.9167086952126092
+Test feature: card2_dist2 / interaction of card2 and dist2
+Score = 0.9165936764449855
+Test feature: card2_P_emaildomain / interaction of card2 and P_emaildomain
+Score = 0.9168076891766916
+Test feature: card2_R_emaildomain / interaction of card2 and R_emaildomain
+Score = 0.9167264984219363
+Test feature: card2_C1 / interaction of card2 and C1
+Score = 0.9169202814526829
+Test feature: card2_C2 / interaction of card2 and C2
+Score = 0.9168651761532801
+Test feature: card2_C4 / interaction of card2 and C4
+Score = 0.9167294860517288
+Test feature: card2_C5 / interaction of card2 and C5
+Score = 0.9166810546576467
+Test feature: card2_C6 / interaction of card2 and C6
+Score = 0.9167790937292839
+Test feature: card2_C7 / interaction of card2 and C7
+Score = 0.9167816263200771
+Test feature: card2_C9 / interaction of card2 and C9
+Score = 0.9167981747248913
+Test feature: card2_C11 / interaction of card2 and C11
+Score = 0.9168750238407112
+Test feature: card2_C12 / interaction of card2 and C12
+Score = 0.9167343604846437
+Test feature: card2_C13 / interaction of card2 and C13
+Score = 0.9167056076121277
+Test feature: card2_C14 / interaction of card2 and C14
+Score = 0.9168871359983131
+Test feature: card2_D1 / interaction of card2 and D1
+Score = 0.9167850843100469
+Test feature: card2_D2 / interaction of card2 and D2
+Score = 0.9166316898207694
+Test feature: card2_D3 / interaction of card2 and D3
+Score = 0.9167931011166566
+Test feature: card2_D4 / interaction of card2 and D4
+Score = 0.9167880669604564
+Test feature: card2_D5 / interaction of card2 and D5
+Score = 0.9166510075285835
+Test feature: card2_D6 / interaction of card2 and D6
+Score = 0.9166502610041649
+Test feature: card2_D8 / interaction of card2 and D8
+Score = 0.9166498408208466
+Test feature: card2_D9 / interaction of card2 and D9
+Score = 0.9165942486909995
+Test feature: card2_D10 / interaction of card2 and D10
+Score = 0.9167366559802008
+Test feature: card2_D11 / interaction of card2 and D11
+Score = 0.9166730033783856
+Test feature: card2_D12 / interaction of card2 and D12
+Score = 0.9167142376489036
+Test feature: card2_D14 / interaction of card2 and D14
+Score = 0.9168118389178673
+Test feature: card2_D15 / interaction of card2 and D15
+Score = 0.9166746331687405
+Test feature: card2_M4 / interaction of card2 and M4
+Score = 0.9168758186268419
+Test feature: card2_M5 / interaction of card2 and M5
+Score = 0.9167514727088238
+Test feature: card2_M6 / interaction of card2 and M6
+Score = 0.9167918187340227
+Test feature: card2_M8 / interaction of card2 and M8
+Score = 0.9167377958758754
+Test feature: card2_M9 / interaction of card2 and M9
+Score = 0.9167834292397481
+Test feature: card2_V45 / interaction of card2 and V45
+Score = 0.916754682112674
+Test feature: card2_V62 / interaction of card2 and V62
+Score = 0.9168118492596629
+Test feature: card2_V76 / interaction of card2 and V76
+Score = 0.9167774693013417
+Test feature: card2_V82 / interaction of card2 and V82
+Score = 0.9167072144207149
+Test feature: card2_V83 / interaction of card2 and V83
+Score = 0.9166670074352101
+Test feature: card2_V127 / interaction of card2 and V127
+Score = 0.9168394388717072
+Test feature: card2_V130 / interaction of card2 and V130
+Score = 0.9168668687604664
+Test feature: card2_V307 / interaction of card2 and V307
+Score = 0.9168554383953043
+Test feature: card2_V308 / interaction of card2 and V308
+Score = 0.9167012161793623
+Test feature: card2_V310 / interaction of card2 and V310
+Score = 0.9168500392120282
+Test feature: card2_V312 / interaction of card2 and V312
+Score = 0.9167276406157876
+Test feature: card2_V313 / interaction of card2 and V313
+Score = 0.9168204635922308
+Test feature: card2_V314 / interaction of card2 and V314
+Score = 0.9167422202491745
+Test feature: card2_V315 / interaction of card2 and V315
+Score = 0.9167787807942146
+Test feature: card2_V317 / interaction of card2 and V317
+Score = 0.9166682178083054
+Test feature: card2_id_01 / interaction of card2 and id_01
+Score = 0.9166333169299179
+Test feature: card2_id_02 / interaction of card2 and id_02
+Score = 0.9166814189186638
+Test feature: card2_id_05 / interaction of card2 and id_05
+Score = 0.9167210701284211
+Test feature: card2_id_06 / interaction of card2 and id_06
+Score = 0.9167405716903763
+Test feature: card2_id_13 / interaction of card2 and id_13
+Score = 0.9166942653437415
+Test feature: card2_id_14 / interaction of card2 and id_14
+Score = 0.9167491155455235
+Test feature: card2_id_18 / interaction of card2 and id_18
+Score = 0.916761853573264
+Test feature: card2_id_19 / interaction of card2 and id_19
+Score = 0.9167852528430096
+Test feature: card2_id_20 / interaction of card2 and id_20
+Score = 0.9167001888943491
+Test feature: card2_id_30 / interaction of card2 and id_30
+Score = 0.9167740220361965
+Test feature: card2_id_31 / interaction of card2 and id_31
+Score = 0.9166404194452051
+Test feature: card2_id_33 / interaction of card2 and id_33
+Score = 0.9166522975718068
+Test feature: card2_DeviceInfo / interaction of card2 and DeviceInfo
+Score = 0.916766579773778
+Test feature: card3_card4 / interaction of card3 and card4
+Score = 0.916461258181086
+Test feature: card3_card5 / interaction of card3 and card5
+Score = 0.9166867606475209
+Test feature: card3_card6 / interaction of card3 and card6
+Score = 0.9167343256289628
+Test feature: card3_addr1 / interaction of card3 and addr1
+Score = 0.9169404345477502
+Test feature: card3_dist1 / interaction of card3 and dist1
+Score = 0.9167026579022519
+Test feature: card3_dist2 / interaction of card3 and dist2
+Score = 0.9164898739290552
+Test feature: card3_P_emaildomain / interaction of card3 and P_emaildomain
+Score = 0.916738039865642
+Test feature: card3_R_emaildomain / interaction of card3 and R_emaildomain
+Score = 0.9166263235780271
+Test feature: card3_C1 / interaction of card3 and C1
+Score = 0.9164370093519967
+Test feature: card3_C2 / interaction of card3 and C2
+Score = 0.9165034538555499
+Test feature: card3_C4 / interaction of card3 and C4
+Score = 0.916287836230404
+Test feature: card3_C5 / interaction of card3 and C5
+Score = 0.9167007462022142
+Test feature: card3_C6 / interaction of card3 and C6
+Score = 0.9166573175559168
+Test feature: card3_C7 / interaction of card3 and C7
+Score = 0.9165993801366826
+Test feature: card3_C9 / interaction of card3 and C9
+Score = 0.9165607677028222
+Test feature: card3_C11 / interaction of card3 and C11
+Score = 0.9166942519377104
+Test feature: card3_C12 / interaction of card3 and C12
+Score = 0.9165407877370709
+Test feature: card3_C13 / interaction of card3 and C13
+Score = 0.9164712445251817
+Test feature: card3_C14 / interaction of card3 and C14
+Score = 0.9164110499133366
+Test feature: card3_D1 / interaction of card3 and D1
+Score = 0.9166709721731564
+Test feature: card3_D2 / interaction of card3 and D2
+Score = 0.9164365688681171
+Test feature: card3_D3 / interaction of card3 and D3
+Score = 0.9163280765394717
+Test feature: card3_D4 / interaction of card3 and D4
+Score = 0.9165212325509914
+Test feature: card3_D5 / interaction of card3 and D5
+Score = 0.9164985545257199
+Test feature: card3_D6 / interaction of card3 and D6
+Score = 0.91666773174392
+Test feature: card3_D8 / interaction of card3 and D8
+Score = 0.9164603124813478
+Test feature: card3_D9 / interaction of card3 and D9
+Score = 0.9165936232038904
+Test feature: card3_D10 / interaction of card3 and D10
+Score = 0.916537721586239
+Test feature: card3_D11 / interaction of card3 and D11
+Score = 0.9165095934347732
+Test feature: card3_D12 / interaction of card3 and D12
+Score = 0.916715219353411
+Test feature: card3_D14 / interaction of card3 and D14
+Score = 0.9165319914655092
+Test feature: card3_D15 / interaction of card3 and D15
+Score = 0.9166234531552496
+Test feature: card3_M4 / interaction of card3 and M4
+Score = 0.9165857871871863
+Test feature: card3_M5 / interaction of card3 and M5
+Score = 0.9167589410172458
+Test feature: card3_M6 / interaction of card3 and M6
+Score = 0.9167454966831802
+Test feature: card3_M8 / interaction of card3 and M8
+Score = 0.9166032280506434
+Test feature: card3_M9 / interaction of card3 and M9
+Score = 0.9165334952391714
+Test feature: card3_V45 / interaction of card3 and V45
+Score = 0.916358196061103
+Test feature: card3_V62 / interaction of card3 and V62
+Score = 0.9165871952034833
+Test feature: card3_V76 / interaction of card3 and V76
+Score = 0.9164903864224734
+Test feature: card3_V82 / interaction of card3 and V82
+Score = 0.9166112057882481
+Test feature: card3_V83 / interaction of card3 and V83
+Score = 0.9165529791817713
+Test feature: card3_V127 / interaction of card3 and V127
+Score = 0.91654785348153
+Test feature: card3_V130 / interaction of card3 and V130
+Score = 0.9165904057564217
+Test feature: card3_V307 / interaction of card3 and V307
+Score = 0.9164853488190081
+Test feature: card3_V308 / interaction of card3 and V308
+Score = 0.916489014793975
+Test feature: card3_V310 / interaction of card3 and V310
+Score = 0.9166486932645828
+Test feature: card3_V312 / interaction of card3 and V312
+Score = 0.9162366221272911
+Test feature: card3_V313 / interaction of card3 and V313
+Score = 0.9165081689482095
+Test feature: card3_V314 / interaction of card3 and V314
+Score = 0.9164477085139185
+Test feature: card3_V315 / interaction of card3 and V315
+Score = 0.9166461985937061
+Test feature: card3_V317 / interaction of card3 and V317
+Score = 0.9163492205317538
+Test feature: card3_id_01 / interaction of card3 and id_01
+Score = 0.9164495880394815
+Test feature: card3_id_02 / interaction of card3 and id_02
+Score = 0.9164767754705923
+Test feature: card3_id_05 / interaction of card3 and id_05
+Score = 0.9165288307064006
+Test feature: card3_id_06 / interaction of card3 and id_06
+Score = 0.916624657016844
+Test feature: card3_id_13 / interaction of card3 and id_13
+Score = 0.9165858408113107
+Test feature: card3_id_14 / interaction of card3 and id_14
+Score = 0.9166103094993104
+Test feature: card3_id_18 / interaction of card3 and id_18
+Score = 0.9163802011036124
+Test feature: card3_id_19 / interaction of card3 and id_19
+Score = 0.9165277712469125
+Test feature: card3_id_20 / interaction of card3 and id_20
+Score = 0.916628523316219
+Test feature: card3_id_30 / interaction of card3 and id_30
+Score = 0.9165900537523473
+Test feature: card3_id_31 / interaction of card3 and id_31
+Score = 0.9165437880068357
+Test feature: card3_id_33 / interaction of card3 and id_33
+Score = 0.9165572683456706
+Test feature: card3_DeviceInfo / interaction of card3 and DeviceInfo
+Score = 0.9165405648139248
+Test feature: card4_card5 / interaction of card4 and card5
+Score = 0.9165000111867584
+Test feature: card4_card6 / interaction of card4 and card6
+Score = 0.9163124661738066
+Test feature: card4_addr1 / interaction of card4 and addr1
+Score = 0.9166830161515144
+Test feature: card4_dist1 / interaction of card4 and dist1
+Score = 0.9166821723376127
+Test feature: card4_dist2 / interaction of card4 and dist2
+Score = 0.9163962787652195
+Test feature: card4_P_emaildomain / interaction of card4 and P_emaildomain
+Score = 0.9165304252580447
+Test feature: card4_R_emaildomain / interaction of card4 and R_emaildomain
+Score = 0.916396646856531
+Test feature: card4_C1 / interaction of card4 and C1
+Score = 0.9166045184768962
+Test feature: card4_C2 / interaction of card4 and C2
+Score = 0.9164445868238151
+Test feature: card4_C4 / interaction of card4 and C4
+Score = 0.9164677214202035
+Test feature: card4_C5 / interaction of card4 and C5
+Score = 0.9165491573138138
+Test feature: card4_C6 / interaction of card4 and C6
+Score = 0.9168054289198451
+Test feature: card4_C7 / interaction of card4 and C7
+Score = 0.9164874240726254
+Test feature: card4_C9 / interaction of card4 and C9
+Score = 0.9163925518885682
+Test feature: card4_C11 / interaction of card4 and C11
+Score = 0.916403508829317
+Test feature: card4_C12 / interaction of card4 and C12
+Score = 0.9163052418551509
+Test feature: card4_C13 / interaction of card4 and C13
+Score = 0.9163285143421451
+Test feature: card4_C14 / interaction of card4 and C14
+Score = 0.9164227334609721
+Test feature: card4_D1 / interaction of card4 and D1
+Score = 0.9165229381811794
+Test feature: card4_D2 / interaction of card4 and D2
+Score = 0.9164168325091027
+Test feature: card4_D3 / interaction of card4 and D3
+Score = 0.9163938040118748
+Test feature: card4_D4 / interaction of card4 and D4
+Score = 0.9163454798660418
+Test feature: card4_D5 / interaction of card4 and D5
+Score = 0.9161966916890569
+Test feature: card4_D6 / interaction of card4 and D6
+Score = 0.9164208524032913
+Test feature: card4_D8 / interaction of card4 and D8
+Score = 0.9163443449497501
+Test feature: card4_D9 / interaction of card4 and D9
+Score = 0.9164094779604304
+Test feature: card4_D10 / interaction of card4 and D10
+Score = 0.9164368454153875
+Test feature: card4_D11 / interaction of card4 and D11
+Score = 0.9163674688213137
+Test feature: card4_D12 / interaction of card4 and D12
+Score = 0.9164659043284427
+Test feature: card4_D14 / interaction of card4 and D14
+Score = 0.9164719990932191
+Test feature: card4_D15 / interaction of card4 and D15
+Score = 0.916448350088265
+Test feature: card4_M4 / interaction of card4 and M4
+Score = 0.9164722752574601
+Test feature: card4_M5 / interaction of card4 and M5
+Score = 0.9165419617223676
+Test feature: card4_M6 / interaction of card4 and M6
+Score = 0.9164681894822043
+Test feature: card4_M8 / interaction of card4 and M8
+Score = 0.9165412822281046
+Test feature: card4_M9 / interaction of card4 and M9
+Score = 0.916546975961036
+Test feature: card4_V45 / interaction of card4 and V45
+Score = 0.9163693284293448
+Test feature: card4_V62 / interaction of card4 and V62
+Score = 0.9165027961939661
+Test feature: card4_V76 / interaction of card4 and V76
+Score = 0.9164985583560145
+Test feature: card4_V82 / interaction of card4 and V82
+Score = 0.9166193363546076
+Test feature: card4_V83 / interaction of card4 and V83
+Score = 0.9165356041993811
+Test feature: card4_V127 / interaction of card4 and V127
+Score = 0.9163003360138199
+Test feature: card4_V130 / interaction of card4 and V130
+Score = 0.9163681299301627
+Test feature: card4_V307 / interaction of card4 and V307
+Score = 0.9163057945666624
+Test feature: card4_V308 / interaction of card4 and V308
+Score = 0.916408141953672
+Test feature: card4_V310 / interaction of card4 and V310
+Score = 0.9165526589691422
+Test feature: card4_V312 / interaction of card4 and V312
+Score = 0.9164372261466714
+Test feature: card4_V313 / interaction of card4 and V313
+Score = 0.9164750993336729
+Test feature: card4_V314 / interaction of card4 and V314
+Score = 0.916431971365502
+Test feature: card4_V315 / interaction of card4 and V315
+Score = 0.9164921437616385
+Test feature: card4_V317 / interaction of card4 and V317
+Score = 0.9163209801526557
+Test feature: card4_id_01 / interaction of card4 and id_01
+Score = 0.9164632595100175
+Test feature: card4_id_02 / interaction of card4 and id_02
+Score = 0.9165338008966809
+Test feature: card4_id_05 / interaction of card4 and id_05
+Score = 0.9163997520763679
+Test feature: card4_id_06 / interaction of card4 and id_06
+Score = 0.9165643900124308
+Test feature: card4_id_13 / interaction of card4 and id_13
+Score = 0.9164915240199714
+Test feature: card4_id_14 / interaction of card4 and id_14
+Score = 0.9164114647342423
+Test feature: card4_id_18 / interaction of card4 and id_18
+Score = 0.9164213476603837
+Test feature: card4_id_19 / interaction of card4 and id_19
+Score = 0.9163800823644797
+Test feature: card4_id_20 / interaction of card4 and id_20
+Score = 0.9165048492318748
+Test feature: card4_id_30 / interaction of card4 and id_30
+Score = 0.9163992441793032
+Test feature: card4_id_31 / interaction of card4 and id_31
+Score = 0.9165303609090956
+Test feature: card4_id_33 / interaction of card4 and id_33
+Score = 0.9164513308235271
+Test feature: card4_DeviceInfo / interaction of card4 and DeviceInfo
+Score = 0.9164853480529492
+Test feature: card5_card6 / interaction of card5 and card6
+Score = 0.9167208855082211
+Test feature: card5_addr1 / interaction of card5 and addr1
+Score = 0.9170385689937232
+Test feature: card5_dist1 / interaction of card5 and dist1
+Score = 0.9168073766246518
+Test feature: card5_dist2 / interaction of card5 and dist2
+Score = 0.916715190243172
+Test feature: card5_P_emaildomain / interaction of card5 and P_emaildomain
+Score = 0.9168300944849872
+Test feature: card5_R_emaildomain / interaction of card5 and R_emaildomain
+Score = 0.9168035141555714
+Test feature: card5_C1 / interaction of card5 and C1
+Score = 0.9168478471344254
+Test feature: card5_C2 / interaction of card5 and C2
+Score = 0.9170405998159232
+Test feature: card5_C4 / interaction of card5 and C4
+Score = 0.9167266795948712
+Test feature: card5_C5 / interaction of card5 and C5
+Score = 0.9167126549711726
+Test feature: card5_C6 / interaction of card5 and C6
+Score = 0.9168694783401812
+Test feature: card5_C7 / interaction of card5 and C7
+Score = 0.9167347036790403
+Test feature: card5_C9 / interaction of card5 and C9
+Score = 0.9168304146976164
+Test feature: card5_C11 / interaction of card5 and C11
+Score = 0.9168022302408196
+Test feature: card5_C12 / interaction of card5 and C12
+Score = 0.9166964792540235
+Test feature: card5_C13 / interaction of card5 and C13
+Score = 0.9166275381644465
+Test feature: card5_C14 / interaction of card5 and C14
+Score = 0.9167099285674724
+Test feature: card5_D1 / interaction of card5 and D1
+Score = 0.9168426249107602
+Test feature: card5_D2 / interaction of card5 and D2
+Score = 0.9168134024441255
+Test feature: card5_D3 / interaction of card5 and D3
+Score = 0.9168250070876921
+Test feature: card5_D4 / interaction of card5 and D4
+Score = 0.9167617516874274
+Test feature: card5_D5 / interaction of card5 and D5
+Score = 0.9167977124083324
+Test feature: card5_D6 / interaction of card5 and D6
+Score = 0.9167208751664258
+Test feature: card5_D8 / interaction of card5 and D8
+Score = 0.9167229052225667
+Test feature: card5_D9 / interaction of card5 and D9
+Score = 0.9167184302893789
+Test feature: card5_D10 / interaction of card5 and D10
+Score = 0.9167014789375724
+Test feature: card5_D11 / interaction of card5 and D11
+Score = 0.9169079911863818
+Test feature: card5_D12 / interaction of card5 and D12
+Score = 0.91672019758731
+Test feature: card5_D14 / interaction of card5 and D14
+Score = 0.9166974793439451
+Test feature: card5_D15 / interaction of card5 and D15
+Score = 0.9167299541137294
+Test feature: card5_M4 / interaction of card5 and M4
+Score = 0.9166835776727035
+Test feature: card5_M5 / interaction of card5 and M5
+Score = 0.9167714898284328
+Test feature: card5_M6 / interaction of card5 and M6
+Score = 0.9168839989870312
+Test feature: card5_M8 / interaction of card5 and M8
+Score = 0.9169529557808161
+Test feature: card5_M9 / interaction of card5 and M9
+Score = 0.9168841142788988
+Test feature: card5_V45 / interaction of card5 and V45
+Score = 0.916766908413055
+Test feature: card5_V62 / interaction of card5 and V62
+Score = 0.9167794269649147
+Test feature: card5_V76 / interaction of card5 and V76
+Score = 0.9168446534347832
+Test feature: card5_V82 / interaction of card5 and V82
+Score = 0.9167640874010781
+Test feature: card5_V83 / interaction of card5 and V83
+Score = 0.9167475229090265
+Test feature: card5_V127 / interaction of card5 and V127
+Score = 0.9167648810381203
+Test feature: card5_V130 / interaction of card5 and V130
+Score = 0.9168082438033506
+Test feature: card5_V307 / interaction of card5 and V307
+Score = 0.9167568887453962
+Test feature: card5_V308 / interaction of card5 and V308
+Score = 0.9167825777652571
+Test feature: card5_V310 / interaction of card5 and V310
+Score = 0.916837561644321
+Test feature: card5_V312 / interaction of card5 and V312
+Score = 0.9167708520843809
+Test feature: card5_V313 / interaction of card5 and V313
+Score = 0.916822427384275
+Test feature: card5_V314 / interaction of card5 and V314
+Score = 0.9166462993304542
+Test feature: card5_V315 / interaction of card5 and V315
+Score = 0.9167540723297727
+Test feature: card5_V317 / interaction of card5 and V317
+Score = 0.9166689325412788
+Test feature: card5_id_01 / interaction of card5 and id_01
+Score = 0.9167614506262715
+Test feature: card5_id_02 / interaction of card5 and id_02
+Score = 0.9165858971166415
+Test feature: card5_id_05 / interaction of card5 and id_05
+Score = 0.9167807537789661
+Test feature: card5_id_06 / interaction of card5 and id_06
+Score = 0.9167861219368557
+Test feature: card5_id_13 / interaction of card5 and id_13
+Score = 0.9167338882093188
+Test feature: card5_id_14 / interaction of card5 and id_14
+Score = 0.9166694760600835
+Test feature: card5_id_18 / interaction of card5 and id_18
+Score = 0.9168106840840438
+Test feature: card5_id_19 / interaction of card5 and id_19
+Score = 0.9167524260691513
+Test feature: card5_id_20 / interaction of card5 and id_20
+Score = 0.9167412021568683
+Test feature: card5_id_30 / interaction of card5 and id_30
+Score = 0.916763620871195
+Test feature: card5_id_31 / interaction of card5 and id_31
+Score = 0.9168075616278814
+Test feature: card5_id_33 / interaction of card5 and id_33
+Score = 0.9167295389097941
+Test feature: card5_DeviceInfo / interaction of card5 and DeviceInfo
+Score = 0.9167296312198943
+Test feature: card6_addr1 / interaction of card6 and addr1
+Score = 0.9169750320668052
+Test feature: card6_dist1 / interaction of card6 and dist1
+Score = 0.9166694622710228
+Test feature: card6_dist2 / interaction of card6 and dist2
+Score = 0.9166935900628026
+Test feature: card6_P_emaildomain / interaction of card6 and P_emaildomain
+Score = 0.9168877193521816
+Test feature: card6_R_emaildomain / interaction of card6 and R_emaildomain
+Score = 0.9171257055147948
+Test feature: card6_C1 / interaction of card6 and C1
+Score = 0.9167050909053853
+Test feature: card6_C2 / interaction of card6 and C2
+Score = 0.9169527351558469
+Test feature: card6_C4 / interaction of card6 and C4
+Score = 0.9167906240651351
+Test feature: card6_C5 / interaction of card6 and C5
+Score = 0.9171189588338765
+Test feature: card6_C6 / interaction of card6 and C6
+Score = 0.9167241048708372
+Test feature: card6_C7 / interaction of card6 and C7
+Score = 0.916675021943643
+Test feature: card6_C9 / interaction of card6 and C9
+Score = 0.9168041162778834
+Test feature: card6_C11 / interaction of card6 and C11
+Score = 0.9167373584562316
+Test feature: card6_C12 / interaction of card6 and C12
+Score = 0.9166548715297816
+Test feature: card6_C13 / interaction of card6 and C13
+Score = 0.916732265696524
+Test feature: card6_C14 / interaction of card6 and C14
+Score = 0.9167890256831963
+Test feature: card6_D1 / interaction of card6 and D1
+Score = 0.9167845928832492
+Test feature: card6_D2 / interaction of card6 and D2
+Score = 0.9173110538537905
+Test feature: card6_D3 / interaction of card6 and D3
+Score = 0.9166325807472948
+Test feature: card6_D4 / interaction of card6 and D4
+Score = 0.9166916400598188
+Test feature: card6_D5 / interaction of card6 and D5
+Score = 0.9169351230782207
+Test feature: card6_D6 / interaction of card6 and D6
+Score = 0.9167602582555607
+Test feature: card6_D8 / interaction of card6 and D8
+Score = 0.9167325629273854
+Test feature: card6_D9 / interaction of card6 and D9
+Score = 0.9169039463952783
+Test feature: card6_D10 / interaction of card6 and D10
+Score = 0.9164333207782915
+Test feature: card6_D11 / interaction of card6 and D11
+Score = 0.9166365405058581
+Test feature: card6_D12 / interaction of card6 and D12
+Score = 0.9166058315018869
+Test feature: card6_D14 / interaction of card6 and D14
+Score = 0.9163826789211927
+Test feature: card6_D15 / interaction of card6 and D15
+Score = 0.9165307983287394
+Test feature: card6_M4 / interaction of card6 and M4
+Score = 0.9166919307791793
+Test feature: card6_M5 / interaction of card6 and M5
+Score = 0.9165907301823748
+Test feature: card6_M6 / interaction of card6 and M6
+Score = 0.9172567670883449
+Test feature: card6_M8 / interaction of card6 and M8
+Score = 0.916576141356281
+Test feature: card6_M9 / interaction of card6 and M9
+Score = 0.9164339351575463
+Test feature: card6_V45 / interaction of card6 and V45
+Score = 0.9165178278021165
+Test feature: card6_V62 / interaction of card6 and V62
+Score = 0.9172436812698543
+Test feature: card6_V76 / interaction of card6 and V76
+Score = 0.9166364627508775
+Test feature: card6_V82 / interaction of card6 and V82
+Score = 0.9166772048285386
+Test feature: card6_V83 / interaction of card6 and V83
+Score = 0.9166252150907682
+Test feature: card6_V127 / interaction of card6 and V127
+Score = 0.9165318508936972
+Test feature: card6_V130 / interaction of card6 and V130
+Score = 0.9166975666746622
+Test feature: card6_V307 / interaction of card6 and V307
+Score = 0.9166319027851495
+Test feature: card6_V308 / interaction of card6 and V308
+Score = 0.9165210176714641
+Test feature: card6_V310 / interaction of card6 and V310
+Score = 0.9165937859914111
+Test feature: card6_V312 / interaction of card6 and V312
+Score = 0.9164952807729204
+Test feature: card6_V313 / interaction of card6 and V313
+Score = 0.9166735572389857
+Test feature: card6_V314 / interaction of card6 and V314
+Score = 0.9166496002783453
+Test feature: card6_V315 / interaction of card6 and V315
+Score = 0.9167027237833192
+Test feature: card6_V317 / interaction of card6 and V317
+Score = 0.916635638088449
+Test feature: card6_id_01 / interaction of card6 and id_01
+Score = 0.9169406034637424
+Test feature: card6_id_02 / interaction of card6 and id_02
+Score = 0.9169735279101134
+Test feature: card6_id_05 / interaction of card6 and id_05
+Score = 0.9169453886507933
+Test feature: card6_id_06 / interaction of card6 and id_06
+Score = 0.9170882337426681
+Test feature: card6_id_13 / interaction of card6 and id_13
+Score = 0.9168544509453549
+Test feature: card6_id_14 / interaction of card6 and id_14
+Score = 0.91717392164632
+Test feature: card6_id_18 / interaction of card6 and id_18
+Score = 0.9167547954893942
+Test feature: card6_id_19 / interaction of card6 and id_19
+Score = 0.9169119095777634
+Test feature: card6_id_20 / interaction of card6 and id_20
+Score = 0.9171174156081799
+Test feature: card6_id_30 / interaction of card6 and id_30
+Score = 0.9167293336060034
+Test feature: card6_id_31 / interaction of card6 and id_31
+Score = 0.9167220280851021
+Test feature: card6_id_33 / interaction of card6 and id_33
+Score = 0.916779340017227
+Test feature: card6_DeviceInfo / interaction of card6 and DeviceInfo
+Score = 0.9170018494914569
+Test feature: addr1_dist1 / interaction of addr1 and dist1
+Score = 0.9169555178648777
+Test feature: addr1_dist2 / interaction of addr1 and dist2
+Score = 0.9168126635802959
+Test feature: addr1_P_emaildomain / interaction of addr1 and P_emaildomain
+Score = 0.9168062137472095
+Test feature: addr1_R_emaildomain / interaction of addr1 and R_emaildomain
+Score = 0.9167827949429613
+Test feature: addr1_C1 / interaction of addr1 and C1
+Score = 0.917048496351282
+Test feature: addr1_C2 / interaction of addr1 and C2
+Score = 0.916944415372934
+Test feature: addr1_C4 / interaction of addr1 and C4
+Score = 0.9168333582790207
+Test feature: addr1_C5 / interaction of addr1 and C5
+Score = 0.9169240776576666
+Test feature: addr1_C6 / interaction of addr1 and C6
+Score = 0.9170066814081018
+Test feature: addr1_C7 / interaction of addr1 and C7
+Score = 0.91687668618857
+Test feature: addr1_C9 / interaction of addr1 and C9
+Score = 0.9170734311861352
+Test feature: addr1_C11 / interaction of addr1 and C11
+Score = 0.917070345500801
+Test feature: addr1_C12 / interaction of addr1 and C12
+Score = 0.9168483906532299
+Test feature: addr1_C13 / interaction of addr1 and C13
+Score = 0.9168606341899368
+Test feature: addr1_C14 / interaction of addr1 and C14
+Score = 0.9169515213354864
+Test feature: addr1_D1 / interaction of addr1 and D1
+Score = 0.9169015589726506
+Test feature: addr1_D2 / interaction of addr1 and D2
+Score = 0.9168494286630682
+Test feature: addr1_D3 / interaction of addr1 and D3
+Score = 0.9168400245237522
+Test feature: addr1_D4 / interaction of addr1 and D4
+Score = 0.9169177921442186
+Test feature: addr1_D5 / interaction of addr1 and D5
+Score = 0.916862462389552
+Test feature: addr1_D6 / interaction of addr1 and D6
+Score = 0.9167813015110946
+Test feature: addr1_D8 / interaction of addr1 and D8
+Score = 0.9167445942657712
+Test feature: addr1_D9 / interaction of addr1 and D9
+Score = 0.9167695394424196
+Test feature: addr1_D10 / interaction of addr1 and D10
+Score = 0.9168796665408027
+Test feature: addr1_D11 / interaction of addr1 and D11
+Score = 0.9169022323384423
+Test feature: addr1_D12 / interaction of addr1 and D12
+Score = 0.9167764393351221
+Test feature: addr1_D14 / interaction of addr1 and D14
+Score = 0.9167914839662742
+Test feature: addr1_D15 / interaction of addr1 and D15
+Score = 0.9169315716290624
+Test feature: addr1_M4 / interaction of addr1 and M4
+Score = 0.916868037000321
+Test feature: addr1_M5 / interaction of addr1 and M5
+Score = 0.9168866541472517
+Test feature: addr1_M6 / interaction of addr1 and M6
+Score = 0.9169197547871746
+Test feature: addr1_M8 / interaction of addr1 and M8
+Score = 0.9168780896085136
+Test feature: addr1_M9 / interaction of addr1 and M9
+Score = 0.9169264761881484
+Test feature: addr1_V45 / interaction of addr1 and V45
+Score = 0.9168735193009903
+Test feature: addr1_V62 / interaction of addr1 and V62
+Score = 0.91692034733375
+Test feature: addr1_V76 / interaction of addr1 and V76
+Score = 0.9170008999614243
+Test feature: addr1_V82 / interaction of addr1 and V82
+Score = 0.9168502889472365
+Test feature: addr1_V83 / interaction of addr1 and V83
+Score = 0.9168764077261521
+Test feature: addr1_V127 / interaction of addr1 and V127
+Score = 0.9166627044822502
+Test feature: addr1_V130 / interaction of addr1 and V130
+Score = 0.9167175826451825
+Test feature: addr1_V307 / interaction of addr1 and V307
+Score = 0.9168905874767823
+Test feature: addr1_V308 / interaction of addr1 and V308
+Score = 0.9167230388998484
+Test feature: addr1_V310 / interaction of addr1 and V310
+Score = 0.9167121600971094
+Test feature: addr1_V312 / interaction of addr1 and V312
+Score = 0.9167646653925341
+Test feature: addr1_V313 / interaction of addr1 and V313
+Score = 0.9167254481551556
+Test feature: addr1_V314 / interaction of addr1 and V314
+Score = 0.9167524731817749
+Test feature: addr1_V315 / interaction of addr1 and V315
+Score = 0.9167881316924354
+Test feature: addr1_V317 / interaction of addr1 and V317
+Score = 0.9168274347284131
+Test feature: addr1_id_01 / interaction of addr1 and id_01
+Score = 0.9168849661364191
+Test feature: addr1_id_02 / interaction of addr1 and id_02
+Score = 0.9167488880260238
+Test feature: addr1_id_05 / interaction of addr1 and id_05
+Score = 0.9167991445554854
+Test feature: addr1_id_06 / interaction of addr1 and id_06
+Score = 0.9168950164464348
+Test feature: addr1_id_13 / interaction of addr1 and id_13
+Score = 0.9167772720411693
+Test feature: addr1_id_14 / interaction of addr1 and id_14
+Score = 0.9168034260587956
+Test feature: addr1_id_18 / interaction of addr1 and id_18
+Score = 0.916786421465894
+Test feature: addr1_id_19 / interaction of addr1 and id_19
+Score = 0.9168902400690614
+Test feature: addr1_id_20 / interaction of addr1 and id_20
+Score = 0.9168434338689807
+Test feature: addr1_id_30 / interaction of addr1 and id_30
+Score = 0.9168012611762846
+Test feature: addr1_id_31 / interaction of addr1 and id_31
+Score = 0.916863308118601
+Test feature: addr1_id_33 / interaction of addr1 and id_33
+Score = 0.916897932449718
+Test feature: addr1_DeviceInfo / interaction of addr1 and DeviceInfo
+Score = 0.9167819756429452
+Test feature: dist1_dist2 / interaction of dist1 and dist2
+Score = 0.9166313619475512
+Test feature: dist1_P_emaildomain / interaction of dist1 and P_emaildomain
+Score = 0.9164861991444104
+Test feature: dist1_R_emaildomain / interaction of dist1 and R_emaildomain
+Score = 0.9164792100058436
+Test feature: dist1_C1 / interaction of dist1 and C1
+Score = 0.9165501884291216
+Test feature: dist1_C2 / interaction of dist1 and C2
+Score = 0.9165467901917473
+Test feature: dist1_C4 / interaction of dist1 and C4
+Score = 0.9165287188617981
+Test feature: dist1_C5 / interaction of dist1 and C5
+Score = 0.916559832727909
+Test feature: dist1_C6 / interaction of dist1 and C6
+Score = 0.9164179938544271
+Test feature: dist1_C7 / interaction of dist1 and C7
+Score = 0.916580201468563
+Test feature: dist1_C9 / interaction of dist1 and C9
+Score = 0.916519545689247
+Test feature: dist1_C11 / interaction of dist1 and C11
+Score = 0.916552107406719
+Test feature: dist1_C12 / interaction of dist1 and C12
+Score = 0.9163742714245334
+Test feature: dist1_C13 / interaction of dist1 and C13
+Score = 0.9165017646956289
+Test feature: dist1_C14 / interaction of dist1 and C14
+Score = 0.9164968845172718
+Test feature: dist1_D1 / interaction of dist1 and D1
+Score = 0.9165308389298623
+Test feature: dist1_D2 / interaction of dist1 and D2
+Score = 0.9164221056756864
+Test feature: dist1_D3 / interaction of dist1 and D3
+Score = 0.916450521482277
+Test feature: dist1_D4 / interaction of dist1 and D4
+Score = 0.9164555295924738
+Test feature: dist1_D5 / interaction of dist1 and D5
+Score = 0.9164383748520236
+Test feature: dist1_D6 / interaction of dist1 and D6
+Score = 0.9165336430885431
+Test feature: dist1_D8 / interaction of dist1 and D8
+Score = 0.9164911547795712
+Test feature: dist1_D9 / interaction of dist1 and D9
+Score = 0.9165070715688048
+Test feature: dist1_D10 / interaction of dist1 and D10
+Score = 0.916545217089753
+Test feature: dist1_D11 / interaction of dist1 and D11
+Score = 0.9164585172222661
+Test feature: dist1_D12 / interaction of dist1 and D12
+Score = 0.9165204963683682
+Test feature: dist1_D14 / interaction of dist1 and D14
+Score = 0.916534018074385
+Test feature: dist1_D15 / interaction of dist1 and D15
+Score = 0.9165364909125823
+Test feature: dist1_M4 / interaction of dist1 and M4
+Score = 0.9165214838183174
+Test feature: dist1_M5 / interaction of dist1 and M5
+Score = 0.9165452653514649
+Test feature: dist1_M6 / interaction of dist1 and M6
+Score = 0.916525640837053
+Test feature: dist1_M8 / interaction of dist1 and M8
+Score = 0.9164809317232689
+Test feature: dist1_M9 / interaction of dist1 and M9
+Score = 0.9165533419106704
+Test feature: dist1_V45 / interaction of dist1 and V45
+Score = 0.9165777834035784
+Test feature: dist1_V62 / interaction of dist1 and V62
+Score = 0.9167020680368826
+Test feature: dist1_V76 / interaction of dist1 and V76
+Score = 0.9165893114412529
+Test feature: dist1_V82 / interaction of dist1 and V82
+Score = 0.9165017723562181
+Test feature: dist1_V83 / interaction of dist1 and V83
+Score = 0.9164887236915851
+Test feature: dist1_V127 / interaction of dist1 and V127
+Score = 0.9165013180832778
+Test feature: dist1_V130 / interaction of dist1 and V130
+Score = 0.916507084208777
+Test feature: dist1_V307 / interaction of dist1 and V307
+Score = 0.916583102533697
+Test feature: dist1_V308 / interaction of dist1 and V308
+Score = 0.9164899850075988
+Test feature: dist1_V310 / interaction of dist1 and V310
+Score = 0.9165029007610089
+Test feature: dist1_V312 / interaction of dist1 and V312
+Score = 0.9165234882114847
+Test feature: dist1_V313 / interaction of dist1 and V313
+Score = 0.916550217156331
+Test feature: dist1_V314 / interaction of dist1 and V314
+Score = 0.9165311242868105
+Test feature: dist1_V315 / interaction of dist1 and V315
+Score = 0.9164977758268266
+Test feature: dist1_V317 / interaction of dist1 and V317
+Score = 0.9164511580772405
+Test feature: dist1_id_01 / interaction of dist1 and id_01
+Score = 0.9165144188399175
+Test feature: dist1_id_02 / interaction of dist1 and id_02
+Score = 0.9165719054334767
+Test feature: dist1_id_05 / interaction of dist1 and id_05
+Score = 0.9165041410104022
+Test feature: dist1_id_06 / interaction of dist1 and id_06
+Score = 0.9164967573514909
+Test feature: dist1_id_13 / interaction of dist1 and id_13
+Score = 0.916531632949934
+Test feature: dist1_id_14 / interaction of dist1 and id_14
+Score = 0.9165499298842357
+Test feature: dist1_id_18 / interaction of dist1 and id_18
+Score = 0.9166194095132344
+Test feature: dist1_id_19 / interaction of dist1 and id_19
+Score = 0.9165375526702471
+Test feature: dist1_id_20 / interaction of dist1 and id_20
+Score = 0.9165368735590134
+Test feature: dist1_id_30 / interaction of dist1 and id_30
+Score = 0.9164917247274086
+Test feature: dist1_id_31 / interaction of dist1 and id_31
+Score = 0.9166244252840205
+Test feature: dist1_id_33 / interaction of dist1 and id_33
+Score = 0.9165099324158459
+Test feature: dist1_DeviceInfo / interaction of dist1 and DeviceInfo
+Score = 0.9165899281186844
+Test feature: dist2_P_emaildomain / interaction of dist2 and P_emaildomain
+Score = 0.9165604440429281
+Test feature: dist2_R_emaildomain / interaction of dist2 and R_emaildomain
+Score = 0.9165166886725008
+Test feature: dist2_C1 / interaction of dist2 and C1
+Score = 0.91648423267116
+Test feature: dist2_C2 / interaction of dist2 and C2
+Score = 0.9165944053500489
+Test feature: dist2_C4 / interaction of dist2 and C4
+Score = 0.9163891099858357
+Test feature: dist2_C5 / interaction of dist2 and C5
+Score = 0.9166184186160199
+Test feature: dist2_C6 / interaction of dist2 and C6
+Score = 0.9164687134665065
+Test feature: dist2_C7 / interaction of dist2 and C7
+Score = 0.9163613786528909
+Test feature: dist2_C9 / interaction of dist2 and C9
+Score = 0.9164736894022286
+Test feature: dist2_C11 / interaction of dist2 and C11
+Score = 0.9165252470827676
+Test feature: dist2_C12 / interaction of dist2 and C12
+Score = 0.9163310381232608
+Test feature: dist2_C13 / interaction of dist2 and C13
+Score = 0.9163812854600153
+Test feature: dist2_C14 / interaction of dist2 and C14
+Score = 0.9164028461883504
+Test feature: dist2_D1 / interaction of dist2 and D1
+Score = 0.9165411305484382
+Test feature: dist2_D2 / interaction of dist2 and D2
+Score = 0.9163663515243773
+Test feature: dist2_D3 / interaction of dist2 and D3
+Score = 0.9164605836662059
+Test feature: dist2_D4 / interaction of dist2 and D4
+Score = 0.9163798755285708
+Test feature: dist2_D5 / interaction of dist2 and D5
+Score = 0.9163974715189597
+Test feature: dist2_D6 / interaction of dist2 and D6
+Score = 0.9164118535091448
+Test feature: dist2_D8 / interaction of dist2 and D8
+Score = 0.9164163567865127
+Test feature: dist2_D9 / interaction of dist2 and D9
+Score = 0.9164670411598816
+Test feature: dist2_D10 / interaction of dist2 and D10
+Score = 0.9164674632583473
+Test feature: dist2_D11 / interaction of dist2 and D11
+Score = 0.9163910343258455
+Test feature: dist2_D12 / interaction of dist2 and D12
+Score = 0.9164688467607587
+Test feature: dist2_D14 / interaction of dist2 and D14
+Score = 0.91643293123733
+Test feature: dist2_D15 / interaction of dist2 and D15
+Score = 0.9165543420005919
+Test feature: dist2_M4 / interaction of dist2 and M4
+Score = 0.916613211713533
+Test feature: dist2_M5 / interaction of dist2 and M5
+Score = 0.91667009618478
+Test feature: dist2_M6 / interaction of dist2 and M6
+Score = 0.916648487960792
+Test feature: dist2_M8 / interaction of dist2 and M8
+Score = 0.9165207510829595
+Test feature: dist2_M9 / interaction of dist2 and M9
+Score = 0.9164659782531286
+Test feature: dist2_V45 / interaction of dist2 and V45
+Score = 0.9164331641192421
+Test feature: dist2_V62 / interaction of dist2 and V62
+Score = 0.9165999435730192
+Test feature: dist2_V76 / interaction of dist2 and V76
+Score = 0.9164891212761651
+Test feature: dist2_V82 / interaction of dist2 and V82
+Score = 0.9164842058590977
+Test feature: dist2_V83 / interaction of dist2 and V83
+Score = 0.9163590831573338
+Test feature: dist2_V127 / interaction of dist2 and V127
+Score = 0.9163697830853145
+Test feature: dist2_V130 / interaction of dist2 and V130
+Score = 0.9164960705796683
+Test feature: dist2_V307 / interaction of dist2 and V307
+Score = 0.9163714396877314
+Test feature: dist2_V308 / interaction of dist2 and V308
+Score = 0.9163509974054213
+Test feature: dist2_V310 / interaction of dist2 and V310
+Score = 0.9163806634201713
+Test feature: dist2_V312 / interaction of dist2 and V312
+Score = 0.9163072347574341
+Test feature: dist2_V313 / interaction of dist2 and V313
+Score = 0.9164038964551311
+Test feature: dist2_V314 / interaction of dist2 and V314
+Score = 0.9165224728003848
+Test feature: dist2_V315 / interaction of dist2 and V315
+Score = 0.9165021385323824
+Test feature: dist2_V317 / interaction of dist2 and V317
+Score = 0.9162831881679001
+Test feature: dist2_id_01 / interaction of dist2 and id_01
+Score = 0.916491023017437
+Test feature: dist2_id_02 / interaction of dist2 and id_02
+Score = 0.916364790296296
+Test feature: dist2_id_05 / interaction of dist2 and id_05
+Score = 0.9163749302352057
+Test feature: dist2_id_06 / interaction of dist2 and id_06
+Score = 0.9165003838744236
+Test feature: dist2_id_13 / interaction of dist2 and id_13
+Score = 0.9164636620739804
+Test feature: dist2_id_14 / interaction of dist2 and id_14
+Score = 0.916540684702146
+Test feature: dist2_id_18 / interaction of dist2 and id_18
+Score = 0.9164554028097225
+Test feature: dist2_id_19 / interaction of dist2 and id_19
+Score = 0.9165240531799389
+Test feature: dist2_id_20 / interaction of dist2 and id_20
+Score = 0.9164784738232205
+Test feature: dist2_id_30 / interaction of dist2 and id_30
+Score = 0.9164438989029038
+Test feature: dist2_id_31 / interaction of dist2 and id_31
+Score = 0.9165847342391992
+Test feature: dist2_id_33 / interaction of dist2 and id_33
+Score = 0.9164373801245145
+Test feature: dist2_DeviceInfo / interaction of dist2 and DeviceInfo
+Score = 0.9164877638197569
+Test feature: P_emaildomain_R_emaildomain / interaction of P_emaildomain and R_emaildomain
+Score = 0.9167115955116848
+Test feature: P_emaildomain_C1 / interaction of P_emaildomain and C1
+Score = 0.9167126109227847
+Test feature: P_emaildomain_C2 / interaction of P_emaildomain and C2
+Score = 0.9166824259031157
+Test feature: P_emaildomain_C4 / interaction of P_emaildomain and C4
+Score = 0.9164986154274041
+Test feature: P_emaildomain_C5 / interaction of P_emaildomain and C5
+Score = 0.9165139197525303
+Test feature: P_emaildomain_C6 / interaction of P_emaildomain and C6
+Score = 0.9165606616036617
+Test feature: P_emaildomain_C7 / interaction of P_emaildomain and C7
+Score = 0.9164366355152431
+Test feature: P_emaildomain_C9 / interaction of P_emaildomain and C9
+Score = 0.9165648278151042
+Test feature: P_emaildomain_C11 / interaction of P_emaildomain and C11
+Score = 0.916571818485789
+Test feature: P_emaildomain_C12 / interaction of P_emaildomain and C12
+Score = 0.9165249211246966
+Test feature: P_emaildomain_C13 / interaction of P_emaildomain and C13
+Score = 0.9167617313868661
+Test feature: P_emaildomain_C14 / interaction of P_emaildomain and C14
+Score = 0.9168756110248741
+Test feature: P_emaildomain_D1 / interaction of P_emaildomain and D1
+Score = 0.91674941622365
+Test feature: P_emaildomain_D2 / interaction of P_emaildomain and D2
+Score = 0.916589257434099
+Test feature: P_emaildomain_D3 / interaction of P_emaildomain and D3
+Score = 0.9164220528176207
+Test feature: P_emaildomain_D4 / interaction of P_emaildomain and D4
+Score = 0.9166824695684741
+Test feature: P_emaildomain_D5 / interaction of P_emaildomain and D5
+Score = 0.9166267039262814
+Test feature: P_emaildomain_D6 / interaction of P_emaildomain and D6
+Score = 0.9166371594814663
+Test feature: P_emaildomain_D8 / interaction of P_emaildomain and D8
+Score = 0.9165293792045881
+Test feature: P_emaildomain_D9 / interaction of P_emaildomain and D9
+Score = 0.9166173852025354
+Test feature: P_emaildomain_D10 / interaction of P_emaildomain and D10
+Score = 0.9167278554953149
+Test feature: P_emaildomain_D11 / interaction of P_emaildomain and D11
+Score = 0.9165819997918803
+Test feature: P_emaildomain_D12 / interaction of P_emaildomain and D12
+Score = 0.9166781761912507
+Test feature: P_emaildomain_D14 / interaction of P_emaildomain and D14
+Score = 0.9165286051020485
+Test feature: P_emaildomain_D15 / interaction of P_emaildomain and D15
+Score = 0.9165740477172494
+Test feature: P_emaildomain_M4 / interaction of P_emaildomain and M4
+Score = 0.916474607906875
+Test feature: P_emaildomain_M5 / interaction of P_emaildomain and M5
+Score = 0.9164908238421174
+Test feature: P_emaildomain_M6 / interaction of P_emaildomain and M6
+Score = 0.9166538434787095
+Test feature: P_emaildomain_M8 / interaction of P_emaildomain and M8
+Score = 0.9165613568021326
+Test feature: P_emaildomain_M9 / interaction of P_emaildomain and M9
+Score = 0.9164679010610206
+Test feature: P_emaildomain_V45 / interaction of P_emaildomain and V45
+Score = 0.9164819410058975
+Test feature: P_emaildomain_V62 / interaction of P_emaildomain and V62
+Score = 0.9165771747697655
+Test feature: P_emaildomain_V76 / interaction of P_emaildomain and V76
+Score = 0.9165654636440086
+Test feature: P_emaildomain_V82 / interaction of P_emaildomain and V82
+Score = 0.9165434934571803
+Test feature: P_emaildomain_V83 / interaction of P_emaildomain and V83
+Score = 0.9165936396741573
+Test feature: P_emaildomain_V127 / interaction of P_emaildomain and V127
+Score = 0.9165337422931734
+Test feature: P_emaildomain_V130 / interaction of P_emaildomain and V130
+Score = 0.9166944350257926
+Test feature: P_emaildomain_V307 / interaction of P_emaildomain and V307
+Score = 0.9163945945846814
+Test feature: P_emaildomain_V308 / interaction of P_emaildomain and V308
+Score = 0.9164483056568477
+Test feature: P_emaildomain_V310 / interaction of P_emaildomain and V310
+Score = 0.9164723802075323
+Test feature: P_emaildomain_V312 / interaction of P_emaildomain and V312
+Score = 0.916440347070716
+Test feature: P_emaildomain_V313 / interaction of P_emaildomain and V313
+Score = 0.9165963354355006
+Test feature: P_emaildomain_V314 / interaction of P_emaildomain and V314
+Score = 0.9165630612832323
+Test feature: P_emaildomain_V315 / interaction of P_emaildomain and V315
+Score = 0.9165506453832679
+Test feature: P_emaildomain_V317 / interaction of P_emaildomain and V317
+Score = 0.9164118328255539
+Test feature: P_emaildomain_id_01 / interaction of P_emaildomain and id_01
+Score = 0.9168204685716139
+Test feature: P_emaildomain_id_02 / interaction of P_emaildomain and id_02
+Score = 0.9166872463288765
+Test feature: P_emaildomain_id_05 / interaction of P_emaildomain and id_05
+Score = 0.9165595749490821
+Test feature: P_emaildomain_id_06 / interaction of P_emaildomain and id_06
+Score = 0.9167090870517474
+Test feature: P_emaildomain_id_13 / interaction of P_emaildomain and id_13
+Score = 0.9166629381302211
+Test feature: P_emaildomain_id_14 / interaction of P_emaildomain and id_14
+Score = 0.9164915293823838
+Test feature: P_emaildomain_id_18 / interaction of P_emaildomain and id_18
+Score = 0.9165530259113654
+Test feature: P_emaildomain_id_19 / interaction of P_emaildomain and id_19
+Score = 0.9167603609074562
+Test feature: P_emaildomain_id_20 / interaction of P_emaildomain and id_20
+Score = 0.9167303532304275
+Test feature: P_emaildomain_id_30 / interaction of P_emaildomain and id_30
+Score = 0.9165417931894049
+Test feature: P_emaildomain_id_31 / interaction of P_emaildomain and id_31
+Score = 0.9164932097326273
+Test feature: P_emaildomain_id_33 / interaction of P_emaildomain and id_33
+Score = 0.9165121884593685
+Test feature: P_emaildomain_DeviceInfo / interaction of P_emaildomain and DeviceInfo
+Score = 0.9166674655384448
+Test feature: R_emaildomain_C1 / interaction of R_emaildomain and C1
+Score = 0.9166202966094651
+Test feature: R_emaildomain_C2 / interaction of R_emaildomain and C2
+Score = 0.9167202270805785
+Test feature: R_emaildomain_C4 / interaction of R_emaildomain and C4
+Score = 0.9165738776521688
+Test feature: R_emaildomain_C5 / interaction of R_emaildomain and C5
+Score = 0.9167495257700758
+Test feature: R_emaildomain_C6 / interaction of R_emaildomain and C6
+Score = 0.9167569956106156
+Test feature: R_emaildomain_C7 / interaction of R_emaildomain and C7
+Score = 0.9166533846094156
+Test feature: R_emaildomain_C9 / interaction of R_emaildomain and C9
+Score = 0.9166695545811229
+Test feature: R_emaildomain_C11 / interaction of R_emaildomain and C11
+Score = 0.9166701923251745
+Test feature: R_emaildomain_C12 / interaction of R_emaildomain and C12
+Score = 0.9165480208654043
+Test feature: R_emaildomain_C13 / interaction of R_emaildomain and C13
+Score = 0.916573414569551
+Test feature: R_emaildomain_C14 / interaction of R_emaildomain and C14
+Score = 0.9166725307200314
+Test feature: R_emaildomain_D1 / interaction of R_emaildomain and D1
+Score = 0.9166269230191327
+Test feature: R_emaildomain_D2 / interaction of R_emaildomain and D2
+Score = 0.9169947753203498
+Test feature: R_emaildomain_D3 / interaction of R_emaildomain and D3
+Score = 0.9167901433631623
+Test feature: R_emaildomain_D4 / interaction of R_emaildomain and D4
+Score = 0.9167790876008125
+Test feature: R_emaildomain_D5 / interaction of R_emaildomain and D5
+Score = 0.9166697334558809
+Test feature: R_emaildomain_D6 / interaction of R_emaildomain and D6
+Score = 0.917004145753073
+Test feature: R_emaildomain_D8 / interaction of R_emaildomain and D8
+Score = 0.9165443499110543
+Test feature: R_emaildomain_D9 / interaction of R_emaildomain and D9
+Score = 0.9166307705500641
+Test feature: R_emaildomain_D10 / interaction of R_emaildomain and D10
+Score = 0.9168228510148586
+Test feature: R_emaildomain_D11 / interaction of R_emaildomain and D11
+Score = 0.916604567504667
+Test feature: R_emaildomain_D12 / interaction of R_emaildomain and D12
+Score = 0.9167772299079289
+Test feature: R_emaildomain_D14 / interaction of R_emaildomain and D14
+Score = 0.9166266231070652
+Test feature: R_emaildomain_D15 / interaction of R_emaildomain and D15
+Score = 0.9168337309666859
+Test feature: R_emaildomain_M4 / interaction of R_emaildomain and M4
+Score = 0.9169131456138325
+Test feature: R_emaildomain_M5 / interaction of R_emaildomain and M5
+Score = 0.917010838809867
+Test feature: R_emaildomain_M6 / interaction of R_emaildomain and M6
+Score = 0.9167259077905081
+Test feature: R_emaildomain_M8 / interaction of R_emaildomain and M8
+Score = 0.9167178442543042
+Test feature: R_emaildomain_M9 / interaction of R_emaildomain and M9
+Score = 0.9166531172548521
+Test feature: R_emaildomain_V45 / interaction of R_emaildomain and V45
+Score = 0.9166380599837282
+Test feature: R_emaildomain_V62 / interaction of R_emaildomain and V62
+Score = 0.9167566853567527
+Test feature: R_emaildomain_V76 / interaction of R_emaildomain and V76
+Score = 0.91653809733814
+Test feature: R_emaildomain_V82 / interaction of R_emaildomain and V82
+Score = 0.9166837542492849
+Test feature: R_emaildomain_V83 / interaction of R_emaildomain and V83
+Score = 0.9166003246873324
+Test feature: R_emaildomain_V127 / interaction of R_emaildomain and V127
+Score = 0.9165012453076803
+Test feature: R_emaildomain_V130 / interaction of R_emaildomain and V130
+Score = 0.9166021061573535
+Test feature: R_emaildomain_V307 / interaction of R_emaildomain and V307
+Score = 0.916554146655567
+Test feature: R_emaildomain_V308 / interaction of R_emaildomain and V308
+Score = 0.9165804611625371
+Test feature: R_emaildomain_V310 / interaction of R_emaildomain and V310
+Score = 0.916682091135367
+Test feature: R_emaildomain_V312 / interaction of R_emaildomain and V312
+Score = 0.9165792956038885
+Test feature: R_emaildomain_V313 / interaction of R_emaildomain and V313
+Score = 0.9166639995048563
+Test feature: R_emaildomain_V314 / interaction of R_emaildomain and V314
+Score = 0.9166217214790583
+Test feature: R_emaildomain_V315 / interaction of R_emaildomain and V315
+Score = 0.9166456887814941
+Test feature: R_emaildomain_V317 / interaction of R_emaildomain and V317
+Score = 0.9164885367732084
+Test feature: R_emaildomain_id_01 / interaction of R_emaildomain and id_01
+Score = 0.9166391983472848
+Test feature: R_emaildomain_id_02 / interaction of R_emaildomain and id_02
+Score = 0.9164820425087045
+Test feature: R_emaildomain_id_05 / interaction of R_emaildomain and id_05
+Score = 0.9164449606605686
+Test feature: R_emaildomain_id_06 / interaction of R_emaildomain and id_06
+Score = 0.9165169958621281
+Test feature: R_emaildomain_id_13 / interaction of R_emaildomain and id_13
+Score = 0.916644290723963
+Test feature: R_emaildomain_id_14 / interaction of R_emaildomain and id_14
+Score = 0.9167573089287143
+Test feature: R_emaildomain_id_18 / interaction of R_emaildomain and id_18
+Score = 0.9165137619443926
+Test feature: R_emaildomain_id_19 / interaction of R_emaildomain and id_19
+Score = 0.916496873792447
+Test feature: R_emaildomain_id_20 / interaction of R_emaildomain and id_20
+Score = 0.9165548820721312
+Test feature: R_emaildomain_id_30 / interaction of R_emaildomain and id_30
+Score = 0.916420928626154
+Test feature: R_emaildomain_id_31 / interaction of R_emaildomain and id_31
+Score = 0.916644183475714
+Test feature: R_emaildomain_id_33 / interaction of R_emaildomain and id_33
+Score = 0.9165314027492283
+Test feature: R_emaildomain_DeviceInfo / interaction of R_emaildomain and DeviceInfo
+Score = 0.9165597385026617
+Test feature: C1_C2 / interaction of C1 and C2
+Score = 0.9166995568957391
+Test feature: C1_C4 / interaction of C1 and C4
+Score = 0.9167070393762513
+Test feature: C1_C5 / interaction of C1 and C5
+Score = 0.9165432494674141
+Test feature: C1_C6 / interaction of C1 and C6
+Score = 0.9166000787824188
+Test feature: C1_C7 / interaction of C1 and C7
+Score = 0.9165715419385183
+Test feature: C1_C9 / interaction of C1 and C9
+Score = 0.9166203617244735
+Test feature: C1_C11 / interaction of C1 and C11
+Score = 0.9166747285430762
+Test feature: C1_C12 / interaction of C1 and C12
+Score = 0.916625935186154
+Test feature: C1_C13 / interaction of C1 and C13
+Score = 0.9164419140442392
+Test feature: C1_C14 / interaction of C1 and C14
+Score = 0.9163724129655908
+Test feature: C1_D1 / interaction of C1 and D1
+Score = 0.916639032112499
+Test feature: C1_D2 / interaction of C1 and D2
+Score = 0.9167666510172575
+Test feature: C1_D3 / interaction of C1 and D3
+Score = 0.9165742940051926
+Test feature: C1_D4 / interaction of C1 and D4
+Score = 0.9166878112973311
+Test feature: C1_D5 / interaction of C1 and D5
+Score = 0.9165873315619711
+Test feature: C1_D6 / interaction of C1 and D6
+Score = 0.916532288313341
+Test feature: C1_D8 / interaction of C1 and D8
+Score = 0.9164604967185184
+Test feature: C1_D9 / interaction of C1 and D9
+Score = 0.9164756957105431
+Test feature: C1_D10 / interaction of C1 and D10
+Score = 0.916769346778601
+Test feature: C1_D11 / interaction of C1 and D11
+Score = 0.9165203389432599
+Test feature: C1_D12 / interaction of C1 and D12
+Score = 0.9166268525417121
+Test feature: C1_D14 / interaction of C1 and D14
+Score = 0.9164187059061942
+Test feature: C1_D15 / interaction of C1 and D15
+Score = 0.9166885739089871
+Test feature: C1_M4 / interaction of C1 and M4
+Score = 0.9166357238870482
+Test feature: C1_M5 / interaction of C1 and M5
+Score = 0.9165646784336147
+Test feature: C1_M6 / interaction of C1 and M6
+Score = 0.916703759111951
+Test feature: C1_M8 / interaction of C1 and M8
+Score = 0.9164984005478767
+Test feature: C1_M9 / interaction of C1 and M9
+Score = 0.9165019148431774
+Test feature: C1_V45 / interaction of C1 and V45
+Score = 0.9166138498406144
+Test feature: C1_V62 / interaction of C1 and V62
+Score = 0.9168571555163759
+Test feature: C1_V76 / interaction of C1 and V76
+Score = 0.9165919390233523
+Test feature: C1_V82 / interaction of C1 and V82
+Score = 0.9167007707160997
+Test feature: C1_V83 / interaction of C1 and V83
+Score = 0.9167199145285385
+Test feature: C1_V127 / interaction of C1 and V127
+Score = 0.9162618082294705
+Test feature: C1_V130 / interaction of C1 and V130
+Score = 0.9163046791848733
+Test feature: C1_V307 / interaction of C1 and V307
+Score = 0.9165651936082391
+Test feature: C1_V308 / interaction of C1 and V308
+Score = 0.9164840855878471
+Test feature: C1_V310 / interaction of C1 and V310
+Score = 0.9166059253441047
+Test feature: C1_V312 / interaction of C1 and V312
+Score = 0.9166072873968665
+Test feature: C1_V313 / interaction of C1 and V313
+Score = 0.9165385631019641
+Test feature: C1_V314 / interaction of C1 and V314
+Score = 0.9165616122827829
+Test feature: C1_V315 / interaction of C1 and V315
+Score = 0.9165110424352225
+Test feature: C1_V317 / interaction of C1 and V317
+Score = 0.9166251384848759
+Test feature: C1_id_01 / interaction of C1 and id_01
+Score = 0.9165412630766314
+Test feature: C1_id_02 / interaction of C1 and id_02
+Score = 0.9165220323165051
+Test feature: C1_id_05 / interaction of C1 and id_05
+Score = 0.916594670023406
+Test feature: C1_id_06 / interaction of C1 and id_06
+Score = 0.9165749999284885
+Test feature: C1_id_13 / interaction of C1 and id_13
+Score = 0.9165617804327161
+Test feature: C1_id_14 / interaction of C1 and id_14
+Score = 0.9166811684173966
+Test feature: C1_id_18 / interaction of C1 and id_18
+Score = 0.91667608906372
+Test feature: C1_id_19 / interaction of C1 and id_19
+Score = 0.9165896301217641
+Test feature: C1_id_20 / interaction of C1 and id_20
+Score = 0.9166190555940129
+Test feature: C1_id_30 / interaction of C1 and id_30
+Score = 0.916787144242486
+Test feature: C1_id_31 / interaction of C1 and id_31
+Score = 0.916700908223676
+Test feature: C1_id_33 / interaction of C1 and id_33
+Score = 0.9166695155121177
+Test feature: C1_DeviceInfo / interaction of C1 and DeviceInfo
+Score = 0.9165911859874328
+Test feature: C2_C4 / interaction of C2 and C4
+Score = 0.9166521516375821
+Test feature: C2_C5 / interaction of C2 and C5
+Score = 0.9165009702925275
+Test feature: C2_C6 / interaction of C2 and C6
+Score = 0.9165943632168082
+Test feature: C2_C7 / interaction of C2 and C7
+Score = 0.9165090188905824
+Test feature: C2_C9 / interaction of C2 and C9
+Score = 0.9167435125905744
+Test feature: C2_C11 / interaction of C2 and C11
+Score = 0.9165755304242913
+Test feature: C2_C12 / interaction of C2 and C12
+Score = 0.9163736325313931
+Test feature: C2_C13 / interaction of C2 and C13
+Score = 0.9165690403731115
+Test feature: C2_C14 / interaction of C2 and C14
+Score = 0.9163846519059442
+Test feature: C2_D1 / interaction of C2 and D1
+Score = 0.916623643137862
+Test feature: C2_D2 / interaction of C2 and D2
+Score = 0.9167479063215166
+Test feature: C2_D3 / interaction of C2 and D3
+Score = 0.9166603319977714
+Test feature: C2_D4 / interaction of C2 and D4
+Score = 0.9167702093609461
+Test feature: C2_D5 / interaction of C2 and D5
+Score = 0.9165375660762783
+Test feature: C2_D6 / interaction of C2 and D6
+Score = 0.9164921682755239
+Test feature: C2_D8 / interaction of C2 and D8
+Score = 0.9165543711108308
+Test feature: C2_D9 / interaction of C2 and D9
+Score = 0.916531622225109
+Test feature: C2_D10 / interaction of C2 and D10
+Score = 0.916715095251866
+Test feature: C2_D11 / interaction of C2 and D11
+Score = 0.9166813890423658
+Test feature: C2_D12 / interaction of C2 and D12
+Score = 0.9164830161695932
+Test feature: C2_D14 / interaction of C2 and D14
+Score = 0.916539894512369
+Test feature: C2_D15 / interaction of C2 and D15
+Score = 0.9166682568773105
+Test feature: C2_M4 / interaction of C2 and M4
+Score = 0.9167303505492211
+Test feature: C2_M5 / interaction of C2 and M5
+Score = 0.9167707260676885
+Test feature: C2_M6 / interaction of C2 and M6
+Score = 0.9168289438644878
+Test feature: C2_M8 / interaction of C2 and M8
+Score = 0.9165608129002987
+Test feature: C2_M9 / interaction of C2 and M9
+Score = 0.916614522440347
+Test feature: C2_V45 / interaction of C2 and V45
+Score = 0.9166546581823721
+Test feature: C2_V62 / interaction of C2 and V62
+Score = 0.916684043053498
+Test feature: C2_V76 / interaction of C2 and V76
+Score = 0.9166882713157132
+Test feature: C2_V82 / interaction of C2 and V82
+Score = 0.9166864331573319
+Test feature: C2_V83 / interaction of C2 and V83
+Score = 0.9166159756541205
+Test feature: C2_V127 / interaction of C2 and V127
+Score = 0.9164889132911681
+Test feature: C2_V130 / interaction of C2 and V130
+Score = 0.9166003258364208
+Test feature: C2_V307 / interaction of C2 and V307
+Score = 0.9166469987422492
+Test feature: C2_V308 / interaction of C2 and V308
+Score = 0.9165148321287054
+Test feature: C2_V310 / interaction of C2 and V310
+Score = 0.9165996773675441
+Test feature: C2_V312 / interaction of C2 and V312
+Score = 0.9164999973976977
+Test feature: C2_V313 / interaction of C2 and V313
+Score = 0.9165097198344953
+Test feature: C2_V314 / interaction of C2 and V314
+Score = 0.9165143100595506
+Test feature: C2_V315 / interaction of C2 and V315
+Score = 0.9165298526290014
+Test feature: C2_V317 / interaction of C2 and V317
+Score = 0.9164929638277134
+Test feature: C2_id_01 / interaction of C2 and id_01
+Score = 0.9166284367515609
+Test feature: C2_id_02 / interaction of C2 and id_02
+Score = 0.9165909511903736
+Test feature: C2_id_05 / interaction of C2 and id_05
+Score = 0.9165368176367122
+Test feature: C2_id_06 / interaction of C2 and id_06
+Score = 0.9166104286214727
+Test feature: C2_id_13 / interaction of C2 and id_13
+Score = 0.9165571442441254
+Test feature: C2_id_14 / interaction of C2 and id_14
+Score = 0.9165515983605659
+Test feature: C2_id_18 / interaction of C2 and id_18
+Score = 0.916539719084876
+Test feature: C2_id_19 / interaction of C2 and id_19
+Score = 0.916509218065902
+Test feature: C2_id_20 / interaction of C2 and id_20
+Score = 0.9165555883784565
+Test feature: C2_id_30 / interaction of C2 and id_30
+Score = 0.9165738715236976
+Test feature: C2_id_31 / interaction of C2 and id_31
+Score = 0.9166237561315529
+Test feature: C2_id_33 / interaction of C2 and id_33
+Score = 0.9166928167263217
+Test feature: C2_DeviceInfo / interaction of C2 and DeviceInfo
+Score = 0.916614206441042
+Test feature: C4_C5 / interaction of C4 and C5
+Score = 0.916493371754089
+Test feature: C4_C6 / interaction of C4 and C6
+Score = 0.9166372096583256
+Test feature: C4_C7 / interaction of C4 and C7
+Score = 0.9164864232166449
+Test feature: C4_C9 / interaction of C4 and C9
+Score = 0.9164906851854526
+Test feature: C4_C11 / interaction of C4 and C11
+Score = 0.9164966573808018
+Test feature: C4_C12 / interaction of C4 and C12
+Score = 0.9164497213337339
+Test feature: C4_C13 / interaction of C4 and C13
+Score = 0.9161569048868704
+Test feature: C4_C14 / interaction of C4 and C14
+Score = 0.9163889077462803
+Test feature: C4_D1 / interaction of C4 and D1
+Score = 0.916364669642016
+Test feature: C4_D2 / interaction of C4 and D2
+Score = 0.9162764142918901
+Test feature: C4_D3 / interaction of C4 and D3
+Score = 0.9161492213158917
+Test feature: C4_D4 / interaction of C4 and D4
+Score = 0.9162852423548971
+Test feature: C4_D5 / interaction of C4 and D5
+Score = 0.9163667253611308
+Test feature: C4_D6 / interaction of C4 and D6
+Score = 0.9163894098979032
+Test feature: C4_D8 / interaction of C4 and D8
+Score = 0.9162331913324128
+Test feature: C4_D9 / interaction of C4 and D9
+Score = 0.9163408720216312
+Test feature: C4_D10 / interaction of C4 and D10
+Score = 0.9163821235284749
+Test feature: C4_D11 / interaction of C4 and D11
+Score = 0.9163637013435398
+Test feature: C4_D12 / interaction of C4 and D12
+Score = 0.9164770531669512
+Test feature: C4_D14 / interaction of C4 and D14
+Score = 0.9164099510018143
+Test feature: C4_D15 / interaction of C4 and D15
+Score = 0.9164202043174441
+Test feature: C4_M4 / interaction of C4 and M4
+Score = 0.9165527554925663
+Test feature: C4_M5 / interaction of C4 and M5
+Score = 0.9165919888171822
+Test feature: C4_M6 / interaction of C4 and M6
+Score = 0.9165876241964791
+Test feature: C4_M8 / interaction of C4 and M8
+Score = 0.916369769296254
+Test feature: C4_M9 / interaction of C4 and M9
+Score = 0.9163115028547132
+Test feature: C4_V45 / interaction of C4 and V45
+Score = 0.9161939591568853
+Test feature: C4_V62 / interaction of C4 and V62
+Score = 0.9165002000202825
+Test feature: C4_V76 / interaction of C4 and V76
+Score = 0.9164696522717144
+Test feature: C4_V82 / interaction of C4 and V82
+Score = 0.9165575360832634
+Test feature: C4_V83 / interaction of C4 and V83
+Score = 0.9165041502031093
+Test feature: C4_V127 / interaction of C4 and V127
+Score = 0.9165221311381059
+Test feature: C4_V130 / interaction of C4 and V130
+Score = 0.9163777861028636
+Test feature: C4_V307 / interaction of C4 and V307
+Score = 0.9163237655428931
+Test feature: C4_V308 / interaction of C4 and V308
+Score = 0.9159167465641863
+Test feature: C4_V310 / interaction of C4 and V310
+Score = 0.9161433330039944
+Test feature: C4_V312 / interaction of C4 and V312
+Score = 0.9163502899500077
+Test feature: C4_V313 / interaction of C4 and V313
+Score = 0.9166486595579901
+Test feature: C4_V314 / interaction of C4 and V314
+Score = 0.9163576590537994
+Test feature: C4_V315 / interaction of C4 and V315
+Score = 0.9165341850752298
+Test feature: C4_V317 / interaction of C4 and V317
+Score = 0.9177712989893665
+Test feature: C4_id_01 / interaction of C4 and id_01
+Score = 0.9164686878035325
+Test feature: C4_id_02 / interaction of C4 and id_02
+Score = 0.9164945813611256
+Test feature: C4_id_05 / interaction of C4 and id_05
+Score = 0.9165539126245666
+Test feature: C4_id_06 / interaction of C4 and id_06
+Score = 0.9164101723928424
+Test feature: C4_id_13 / interaction of C4 and id_13
+Score = 0.9163832994289188
+Test feature: C4_id_14 / interaction of C4 and id_14
+Score = 0.9164460626363267
+Test feature: C4_id_18 / interaction of C4 and id_18
+Score = 0.9163890916004215
+Test feature: C4_id_19 / interaction of C4 and id_19
+Score = 0.9162745340002681
+Test feature: C4_id_20 / interaction of C4 and id_20
+Score = 0.9164928071686641
+Test feature: C4_id_30 / interaction of C4 and id_30
+Score = 0.9164866779312362
+Test feature: C4_id_31 / interaction of C4 and id_31
+Score = 0.916369138063703
+Test feature: C4_id_33 / interaction of C4 and id_33
+Score = 0.916534250956297
+Test feature: C4_DeviceInfo / interaction of C4 and DeviceInfo
+Score = 0.9163594317141428
+Test feature: C5_C6 / interaction of C5 and C6
+Score = 0.9165515692503269
+Test feature: C5_C7 / interaction of C5 and C7
+Score = 0.9165289214843827
+Test feature: C5_C9 / interaction of C5 and C9
+Score = 0.9167038364839022
+Test feature: C5_C11 / interaction of C5 and C11
+Score = 0.9165079433438571
+Test feature: C5_C12 / interaction of C5 and C12
+Score = 0.9166327121263999
+Test feature: C5_C13 / interaction of C5 and C13
+Score = 0.9164260485809533
+Test feature: C5_C14 / interaction of C5 and C14
+Score = 0.916265632778634
+Test feature: C5_D1 / interaction of C5 and D1
+Score = 0.9165319834218906
+Test feature: C5_D2 / interaction of C5 and D2
+Score = 0.9167162037391248
+Test feature: C5_D3 / interaction of C5 and D3
+Score = 0.9163344991774666
+Test feature: C5_D4 / interaction of C5 and D4
+Score = 0.9165906344250097
+Test feature: C5_D5 / interaction of C5 and D5
+Score = 0.916651444565198
+Test feature: C5_D6 / interaction of C5 and D6
+Score = 0.9165539210512148
+Test feature: C5_D8 / interaction of C5 and D8
+Score = 0.9166940592738918
+Test feature: C5_D9 / interaction of C5 and D9
+Score = 0.91655420142878
+Test feature: C5_D10 / interaction of C5 and D10
+Score = 0.9166942473413568
+Test feature: C5_D11 / interaction of C5 and D11
+Score = 0.9165582098320847
+Test feature: C5_D12 / interaction of C5 and D12
+Score = 0.9165580458954755
+Test feature: C5_D14 / interaction of C5 and D14
+Score = 0.916614284579052
+Test feature: C5_D15 / interaction of C5 and D15
+Score = 0.9166057131457835
+Test feature: C5_M4 / interaction of C5 and M4
+Score = 0.9167042283230402
+Test feature: C5_M5 / interaction of C5 and M5
+Score = 0.9168293498757157
+Test feature: C5_M6 / interaction of C5 and M6
+Score = 0.9168215161571885
+Test feature: C5_M8 / interaction of C5 and M8
+Score = 0.9166605779026852
+Test feature: C5_M9 / interaction of C5 and M9
+Score = 0.9165576494599839
+Test feature: C5_V45 / interaction of C5 and V45
+Score = 0.9166419741617856
+Test feature: C5_V62 / interaction of C5 and V62
+Score = 0.9166344307795894
+Test feature: C5_V76 / interaction of C5 and V76
+Score = 0.9167464458301834
+Test feature: C5_V82 / interaction of C5 and V82
+Score = 0.9167032171252644
+Test feature: C5_V83 / interaction of C5 and V83
+Score = 0.91664290837064
+Test feature: C5_V127 / interaction of C5 and V127
+Score = 0.9166135713781965
+Test feature: C5_V130 / interaction of C5 and V130
+Score = 0.9165678403418116
+Test feature: C5_V307 / interaction of C5 and V307
+Score = 0.9165977085961167
+Test feature: C5_V308 / interaction of C5 and V308
+Score = 0.9167439936755769
+Test feature: C5_V310 / interaction of C5 and V310
+Score = 0.9166146128352999
+Test feature: C5_V312 / interaction of C5 and V312
+Score = 0.9166057514487296
+Test feature: C5_V313 / interaction of C5 and V313
+Score = 0.9165878551632438
+Test feature: C5_V314 / interaction of C5 and V314
+Score = 0.9166752283965222
+Test feature: C5_V315 / interaction of C5 and V315
+Score = 0.9166956465479764
+Test feature: C5_V317 / interaction of C5 and V317
+Score = 0.9164860984076626
+Test feature: C5_id_01 / interaction of C5 and id_01
+Score = 0.9166202318774862
+Test feature: C5_id_02 / interaction of C5 and id_02
+Score = 0.9165162041402332
+Test feature: C5_id_05 / interaction of C5 and id_05
+Score = 0.9165420030895495
+Test feature: C5_id_06 / interaction of C5 and id_06
+Score = 0.9164868855332039
+Test feature: C5_id_13 / interaction of C5 and id_13
+Score = 0.9165559641303573
+Test feature: C5_id_14 / interaction of C5 and id_14
+Score = 0.9169664813171274
+Test feature: C5_id_18 / interaction of C5 and id_18
+Score = 0.9166579725362943
+Test feature: C5_id_19 / interaction of C5 and id_19
+Score = 0.9166050853604978
+Test feature: C5_id_20 / interaction of C5 and id_20
+Score = 0.916861816984911
+Test feature: C5_id_30 / interaction of C5 and id_30
+Score = 0.916561615730048
+Test feature: C5_id_31 / interaction of C5 and id_31
+Score = 0.9167088196971839
+Test feature: C5_id_33 / interaction of C5 and id_33
+Score = 0.9166167884426357
+Test feature: C5_DeviceInfo / interaction of C5 and DeviceInfo
+Score = 0.9166936827559321
+Test feature: C6_C7 / interaction of C6 and C7
+Score = 0.9166940964277495
+Test feature: C6_C9 / interaction of C6 and C9
+Score = 0.9165874100830106
+Test feature: C6_C11 / interaction of C6 and C11
+Score = 0.9166956438667702
+Test feature: C6_C12 / interaction of C6 and C12
+Score = 0.9167207767278545
+Test feature: C6_C13 / interaction of C6 and C13
+Score = 0.9166887772976305
+Test feature: C6_C14 / interaction of C6 and C14
+Score = 0.9168251721733897
+Test feature: C6_D1 / interaction of C6 and D1
+Score = 0.9166265955289439
+Test feature: C6_D2 / interaction of C6 and D2
+Score = 0.916585361258426
+Test feature: C6_D3 / interaction of C6 and D3
+Score = 0.9164703513004798
+Test feature: C6_D4 / interaction of C6 and D4
+Score = 0.9166254292042365
+Test feature: C6_D5 / interaction of C6 and D5
+Score = 0.9164457156116352
+Test feature: C6_D6 / interaction of C6 and D6
+Score = 0.9165267048928945
+Test feature: C6_D8 / interaction of C6 and D8
+Score = 0.9164868123745769
+Test feature: C6_D9 / interaction of C6 and D9
+Score = 0.9164889025663431
+Test feature: C6_D10 / interaction of C6 and D10
+Score = 0.9166820034216205
+Test feature: C6_D11 / interaction of C6 and D11
+Score = 0.9164168432339276
+Test feature: C6_D12 / interaction of C6 and D12
+Score = 0.9165173321619946
+Test feature: C6_D14 / interaction of C6 and D14
+Score = 0.9164138295581319
+Test feature: C6_D15 / interaction of C6 and D15
+Score = 0.9165649526827084
+Test feature: C6_M4 / interaction of C6 and M4
+Score = 0.9165396849952541
+Test feature: C6_M5 / interaction of C6 and M5
+Score = 0.9167328953969571
+Test feature: C6_M6 / interaction of C6 and M6
+Score = 0.9166114179865692
+Test feature: C6_M8 / interaction of C6 and M8
+Score = 0.9164531812388512
+Test feature: C6_M9 / interaction of C6 and M9
+Score = 0.9164869146434429
+Test feature: C6_V45 / interaction of C6 and V45
+Score = 0.9165313893431971
+Test feature: C6_V62 / interaction of C6 and V62
+Score = 0.9166607295823515
+Test feature: C6_V76 / interaction of C6 and V76
+Score = 0.9166041285529052
+Test feature: C6_V82 / interaction of C6 and V82
+Score = 0.9165443901291477
+Test feature: C6_V83 / interaction of C6 and V83
+Score = 0.9165988546202628
+Test feature: C6_V127 / interaction of C6 and V127
+Score = 0.9164380688114846
+Test feature: C6_V130 / interaction of C6 and V130
+Score = 0.9164531701309967
+Test feature: C6_V307 / interaction of C6 and V307
+Score = 0.9164551251133635
+Test feature: C6_V308 / interaction of C6 and V308
+Score = 0.916448962169343
+Test feature: C6_V310 / interaction of C6 and V310
+Score = 0.9166042890422492
+Test feature: C6_V312 / interaction of C6 and V312
+Score = 0.916356609170048
+Test feature: C6_V313 / interaction of C6 and V313
+Score = 0.9166113708739456
+Test feature: C6_V314 / interaction of C6 and V314
+Score = 0.9167954081030976
+Test feature: C6_V315 / interaction of C6 and V315
+Score = 0.9166525607130461
+Test feature: C6_V317 / interaction of C6 and V317
+Score = 0.9164648793416063
+Test feature: C6_id_01 / interaction of C6 and id_01
+Score = 0.9165512386959024
+Test feature: C6_id_02 / interaction of C6 and id_02
+Score = 0.9165208567990907
+Test feature: C6_id_05 / interaction of C6 and id_05
+Score = 0.916485904211726
+Test feature: C6_id_06 / interaction of C6 and id_06
+Score = 0.9165135700466328
+Test feature: C6_id_13 / interaction of C6 and id_13
+Score = 0.9164847076276911
+Test feature: C6_id_14 / interaction of C6 and id_14
+Score = 0.9164693565729708
+Test feature: C6_id_18 / interaction of C6 and id_18
+Score = 0.9165176646315663
+Test feature: C6_id_19 / interaction of C6 and id_19
+Score = 0.916531313503364
+Test feature: C6_id_20 / interaction of C6 and id_20
+Score = 0.9164807160776826
+Test feature: C6_id_30 / interaction of C6 and id_30
+Score = 0.9164806494305565
+Test feature: C6_id_31 / interaction of C6 and id_31
+Score = 0.9168887569789903
+Test feature: C6_id_33 / interaction of C6 and id_33
+Score = 0.9165092444949346
+Test feature: C6_DeviceInfo / interaction of C6 and DeviceInfo
+Score = 0.9165199850240384
+Test feature: C7_C9 / interaction of C7 and C9
+Score = 0.9163336362120916
+Test feature: C7_C11 / interaction of C7 and C11
+Score = 0.9165254577489709
+Test feature: C7_C12 / interaction of C7 and C12
+Score = 0.9164253836418097
+Test feature: C7_C13 / interaction of C7 and C13
+Score = 0.9163591566989902
+Test feature: C7_C14 / interaction of C7 and C14
+Score = 0.9163396432631219
+Test feature: C7_D1 / interaction of C7 and D1
+Score = 0.9164592652788027
+Test feature: C7_D2 / interaction of C7 and D2
+Score = 0.9164175269415147
+Test feature: C7_D3 / interaction of C7 and D3
+Score = 0.916166835308665
+Test feature: C7_D4 / interaction of C7 and D4
+Score = 0.9163474057381695
+Test feature: C7_D5 / interaction of C7 and D5
+Score = 0.916229382487457
+Test feature: C7_D6 / interaction of C7 and D6
+Score = 0.9163850146348433
+Test feature: C7_D8 / interaction of C7 and D8
+Score = 0.9163351116415738
+Test feature: C7_D9 / interaction of C7 and D9
+Score = 0.9163974155966584
+Test feature: C7_D10 / interaction of C7 and D10
+Score = 0.9163463286593265
+Test feature: C7_D11 / interaction of C7 and D11
+Score = 0.9162071533727133
+Test feature: C7_D12 / interaction of C7 and D12
+Score = 0.916328006062051
+Test feature: C7_D14 / interaction of C7 and D14
+Score = 0.916226643060755
+Test feature: C7_D15 / interaction of C7 and D15
+Score = 0.9163476658151734
+Test feature: C7_M4 / interaction of C7 and M4
+Score = 0.916624401536194
+Test feature: C7_M5 / interaction of C7 and M5
+Score = 0.9165643566888677
+Test feature: C7_M6 / interaction of C7 and M6
+Score = 0.9163834790697359
+Test feature: C7_M8 / interaction of C7 and M8
+Score = 0.9163181262001453
+Test feature: C7_M9 / interaction of C7 and M9
+Score = 0.9163102239193444
+Test feature: C7_V45 / interaction of C7 and V45
+Score = 0.9160402544137445
+Test feature: C7_V62 / interaction of C7 and V62
+Score = 0.9163934761386566
+Test feature: C7_V76 / interaction of C7 and V76
+Score = 0.9163405958573902
+Test feature: C7_V82 / interaction of C7 and V82
+Score = 0.9164668274294426
+Test feature: C7_V83 / interaction of C7 and V83
+Score = 0.9163565865713098
+Test feature: C7_V127 / interaction of C7 and V127
+Score = 0.9163156912818645
+Test feature: C7_V130 / interaction of C7 and V130
+Score = 0.9163669930987237
+Test feature: C7_V307 / interaction of C7 and V307
+Score = 0.9162842131547364
+Test feature: C7_V308 / interaction of C7 and V308
+Score = 0.9162557054210752
+Test feature: C7_V310 / interaction of C7 and V310
+Score = 0.9164579016939232
+Test feature: C7_V312 / interaction of C7 and V312
+Score = 0.9162384181524317
+Test feature: C7_V313 / interaction of C7 and V313
+Score = 0.9166380419813435
+Test feature: C7_V314 / interaction of C7 and V314
+Score = 0.9164723108791999
+Test feature: C7_V315 / interaction of C7 and V315
+Score = 0.916695124861851
+Test feature: C7_V317 / interaction of C7 and V317
+Score = 0.9166370939834284
+Test feature: C7_id_01 / interaction of C7 and id_01
+Score = 0.9163829370830493
+Test feature: C7_id_02 / interaction of C7 and id_02
+Score = 0.916316297234471
+Test feature: C7_id_05 / interaction of C7 and id_05
+Score = 0.9162349456073422
+Test feature: C7_id_06 / interaction of C7 and id_06
+Score = 0.9163071780690739
+Test feature: C7_id_13 / interaction of C7 and id_13
+Score = 0.9165172505767194
+Test feature: C7_id_14 / interaction of C7 and id_14
+Score = 0.9163961381934074
+Test feature: C7_id_18 / interaction of C7 and id_18
+Score = 0.9163623890846079
+Test feature: C7_id_19 / interaction of C7 and id_19
+Score = 0.9164636233880049
+Test feature: C7_id_20 / interaction of C7 and id_20
+Score = 0.9164749763812161
+Test feature: C7_id_30 / interaction of C7 and id_30
+Score = 0.9165800432773956
+Test feature: C7_id_31 / interaction of C7 and id_31
+Score = 0.9164285202700625
+Test feature: C7_id_33 / interaction of C7 and id_33
+Score = 0.9163238907935267
+Test feature: C7_DeviceInfo / interaction of C7 and DeviceInfo
+Score = 0.9164339657999031
+Test feature: C9_C11 / interaction of C9 and C11
+Score = 0.9164790227044375
+Test feature: C9_C12 / interaction of C9 and C12
+Score = 0.9164260872669288
+Test feature: C9_C13 / interaction of C9 and C13
+Score = 0.9163478504353733
+Test feature: C9_C14 / interaction of C9 and C14
+Score = 0.9161886875224197
+Test feature: C9_D1 / interaction of C9 and D1
+Score = 0.91642302609548
+Test feature: C9_D2 / interaction of C9 and D2
+Score = 0.9164471037104004
+Test feature: C9_D3 / interaction of C9 and D3
+Score = 0.9163986049031335
+Test feature: C9_D4 / interaction of C9 and D4
+Score = 0.9164393412353526
+Test feature: C9_D5 / interaction of C9 and D5
+Score = 0.9164104328528757
+Test feature: C9_D6 / interaction of C9 and D6
+Score = 0.9163748930813478
+Test feature: C9_D8 / interaction of C9 and D8
+Score = 0.9164210056150754
+Test feature: C9_D9 / interaction of C9 and D9
+Score = 0.9164910762585319
+Test feature: C9_D10 / interaction of C9 and D10
+Score = 0.9165797276611201
+Test feature: C9_D11 / interaction of C9 and D11
+Score = 0.916439901224424
+Test feature: C9_D12 / interaction of C9 and D12
+Score = 0.9163916429596582
+Test feature: C9_D14 / interaction of C9 and D14
+Score = 0.9164052263334183
+Test feature: C9_D15 / interaction of C9 and D15
+Score = 0.9165332186919009
+Test feature: C9_M4 / interaction of C9 and M4
+Score = 0.9164992953046966
+Test feature: C9_M5 / interaction of C9 and M5
+Score = 0.9165079345341796
+Test feature: C9_M6 / interaction of C9 and M6
+Score = 0.9164881537437478
+Test feature: C9_M8 / interaction of C9 and M8
+Score = 0.9164471458436412
+Test feature: C9_M9 / interaction of C9 and M9
+Score = 0.9163695502034025
+Test feature: C9_V45 / interaction of C9 and V45
+Score = 0.9164616377632815
+Test feature: C9_V62 / interaction of C9 and V62
+Score = 0.9166094986259423
+Test feature: C9_V76 / interaction of C9 and V76
+Score = 0.9162761519167095
+Test feature: C9_V82 / interaction of C9 and V82
+Score = 0.9163987297707377
+Test feature: C9_V83 / interaction of C9 and V83
+Score = 0.9164460817877996
+Test feature: C9_V127 / interaction of C9 and V127
+Score = 0.9163805921766915
+Test feature: C9_V130 / interaction of C9 and V130
+Score = 0.9163927855365391
+Test feature: C9_V307 / interaction of C9 and V307
+Score = 0.9163797970075315
+Test feature: C9_V308 / interaction of C9 and V308
+Score = 0.9163207752318945
+Test feature: C9_V310 / interaction of C9 and V310
+Score = 0.916411789543225
+Test feature: C9_V312 / interaction of C9 and V312
+Score = 0.9164791176957438
+Test feature: C9_V313 / interaction of C9 and V313
+Score = 0.9166428417235138
+Test feature: C9_V314 / interaction of C9 and V314
+Score = 0.9164062337008994
+Test feature: C9_V315 / interaction of C9 and V315
+Score = 0.9164407040541735
+Test feature: C9_V317 / interaction of C9 and V317
+Score = 0.916334712524876
+Test feature: C9_id_01 / interaction of C9 and id_01
+Score = 0.9164446101886122
+Test feature: C9_id_02 / interaction of C9 and id_02
+Score = 0.9164803870553759
+Test feature: C9_id_05 / interaction of C9 and id_05
+Score = 0.9164547233154594
+Test feature: C9_id_06 / interaction of C9 and id_06
+Score = 0.9164693328251441
+Test feature: C9_id_13 / interaction of C9 and id_13
+Score = 0.9164153773801821
+Test feature: C9_id_14 / interaction of C9 and id_14
+Score = 0.9165036281339546
+Test feature: C9_id_18 / interaction of C9 and id_18
+Score = 0.9164480463459028
+Test feature: C9_id_19 / interaction of C9 and id_19
+Score = 0.9164209267110068
+Test feature: C9_id_20 / interaction of C9 and id_20
+Score = 0.9165364472472238
+Test feature: C9_id_30 / interaction of C9 and id_30
+Score = 0.9164475208294829
+Test feature: C9_id_31 / interaction of C9 and id_31
+Score = 0.9164128700693331
+Test feature: C9_id_33 / interaction of C9 and id_33
+Score = 0.9164028492525859
+Test feature: C9_DeviceInfo / interaction of C9 and DeviceInfo
+Score = 0.9164844019701816
+Test feature: C11_C12 / interaction of C11 and C12
+Score = 0.9165107444383023
+Test feature: C11_C13 / interaction of C11 and C13
+Score = 0.9164926110575804
+Test feature: C11_C14 / interaction of C11 and C14
+Score = 0.9165133390798682
+Test feature: C11_D1 / interaction of C11 and D1
+Score = 0.9166146231770953
+Test feature: C11_D2 / interaction of C11 and D2
+Score = 0.9166427260486166
+Test feature: C11_D3 / interaction of C11 and D3
+Score = 0.9165762329003219
+Test feature: C11_D4 / interaction of C11 and D4
+Score = 0.9165429127845182
+Test feature: C11_D5 / interaction of C11 and D5
+Score = 0.9165848043335905
+Test feature: C11_D6 / interaction of C11 and D6
+Score = 0.9166021053912945
+Test feature: C11_D8 / interaction of C11 and D8
+Score = 0.916549038574681
+Test feature: C11_D9 / interaction of C11 and D9
+Score = 0.9165802991410753
+Test feature: C11_D10 / interaction of C11 and D10
+Score = 0.9166553422729887
+Test feature: C11_D11 / interaction of C11 and D11
+Score = 0.9163944758455486
+Test feature: C11_D12 / interaction of C11 and D12
+Score = 0.9166096434110785
+Test feature: C11_D14 / interaction of C11 and D14
+Score = 0.916591552929656
+Test feature: C11_D15 / interaction of C11 and D15
+Score = 0.9167755702412762
+Test feature: C11_M4 / interaction of C11 and M4
+Score = 0.9166636390741337
+Test feature: C11_M5 / interaction of C11 and M5
+Score = 0.9167727725940963
+Test feature: C11_M6 / interaction of C11 and M6
+Score = 0.9168087681706821
+Test feature: C11_M8 / interaction of C11 and M8
+Score = 0.9166322229977787
+Test feature: C11_M9 / interaction of C11 and M9
+Score = 0.9164791916204297
+Test feature: C11_V45 / interaction of C11 and V45
+Score = 0.9167737680876642
+Test feature: C11_V62 / interaction of C11 and V62
+Score = 0.9167292914727627
+Test feature: C11_V76 / interaction of C11 and V76
+Score = 0.916839546886015
+Test feature: C11_V82 / interaction of C11 and V82
+Score = 0.9168111161412753
+Test feature: C11_V83 / interaction of C11 and V83
+Score = 0.9167431831852382
+Test feature: C11_V127 / interaction of C11 and V127
+Score = 0.9165284262272901
+Test feature: C11_V130 / interaction of C11 and V130
+Score = 0.9164691474388852
+Test feature: C11_V307 / interaction of C11 and V307
+Score = 0.9166230934905861
+Test feature: C11_V308 / interaction of C11 and V308
+Score = 0.9167983535996495
+Test feature: C11_V310 / interaction of C11 and V310
+Score = 0.9164989486630348
+Test feature: C11_V312 / interaction of C11 and V312
+Score = 0.9166733998138775
+Test feature: C11_V313 / interaction of C11 and V313
+Score = 0.9166882184576477
+Test feature: C11_V314 / interaction of C11 and V314
+Score = 0.916650584664059
+Test feature: C11_V315 / interaction of C11 and V315
+Score = 0.9167699557954433
+Test feature: C11_V317 / interaction of C11 and V317
+Score = 0.9165641540662831
+Test feature: C11_id_01 / interaction of C11 and id_01
+Score = 0.9167457513977715
+Test feature: C11_id_02 / interaction of C11 and id_02
+Score = 0.9165373240016592
+Test feature: C11_id_05 / interaction of C11 and id_05
+Score = 0.9166060636177399
+Test feature: C11_id_06 / interaction of C11 and id_06
+Score = 0.9166575791650383
+Test feature: C11_id_13 / interaction of C11 and id_13
+Score = 0.9167149684691145
+Test feature: C11_id_14 / interaction of C11 and id_14
+Score = 0.9165424975805829
+Test feature: C11_id_18 / interaction of C11 and id_18
+Score = 0.9166879836605885
+Test feature: C11_id_19 / interaction of C11 and id_19
+Score = 0.9165878034542667
+Test feature: C11_id_20 / interaction of C11 and id_20
+Score = 0.9166156902971723
+Test feature: C11_id_30 / interaction of C11 and id_30
+Score = 0.9166500001611022
+Test feature: C11_id_31 / interaction of C11 and id_31
+Score = 0.916517002373629
+Test feature: C11_id_33 / interaction of C11 and id_33
+Score = 0.9166932438041703
+Test feature: C11_DeviceInfo / interaction of C11 and DeviceInfo
+Score = 0.9165724516334872
+Test feature: C12_C13 / interaction of C12 and C13
+Score = 0.9161915640736684
+Test feature: C12_C14 / interaction of C12 and C14
+Score = 0.9162382668557948
+Test feature: C12_D1 / interaction of C12 and D1
+Score = 0.9163764305616026
+Test feature: C12_D2 / interaction of C12 and D2
+Score = 0.9162460017527214
+Test feature: C12_D3 / interaction of C12 and D3
+Score = 0.9162900440122146
+Test feature: C12_D4 / interaction of C12 and D4
+Score = 0.9160331741141662
+Test feature: C12_D5 / interaction of C12 and D5
+Score = 0.9160878906386662
+Test feature: C12_D6 / interaction of C12 and D6
+Score = 0.9161579187658526
+Test feature: C12_D8 / interaction of C12 and D8
+Score = 0.9161363814023147
+Test feature: C12_D9 / interaction of C12 and D9
+Score = 0.9161855355729887
+Test feature: C12_D10 / interaction of C12 and D10
+Score = 0.9161470981835917
+Test feature: C12_D11 / interaction of C12 and D11
+Score = 0.9162316438933922
+Test feature: C12_D12 / interaction of C12 and D12
+Score = 0.916141068916853
+Test feature: C12_D14 / interaction of C12 and D14
+Score = 0.9161735195557813
+Test feature: C12_D15 / interaction of C12 and D15
+Score = 0.9162194938158736
+Test feature: C12_M4 / interaction of C12 and M4
+Score = 0.9162452234368577
+Test feature: C12_M5 / interaction of C12 and M5
+Score = 0.9161609374210312
+Test feature: C12_M6 / interaction of C12 and M6
+Score = 0.9163791090866203
+Test feature: C12_M8 / interaction of C12 and M8
+Score = 0.9161825962049084
+Test feature: C12_M9 / interaction of C12 and M9
+Score = 0.9161952909503195
+Test feature: C12_V45 / interaction of C12 and V45
+Score = 0.916018553496627
+Test feature: C12_V62 / interaction of C12 and V62
+Score = 0.9163109336729347
+Test feature: C12_V76 / interaction of C12 and V76
+Score = 0.9161832381622841
+Test feature: C12_V82 / interaction of C12 and V82
+Score = 0.9162143010854769
+Test feature: C12_V83 / interaction of C12 and V83
+Score = 0.9160710473011676
+Test feature: C12_V127 / interaction of C12 and V127
+Score = 0.9161945130174853
+Test feature: C12_V130 / interaction of C12 and V130
+Score = 0.9162629557857344
+Test feature: C12_V307 / interaction of C12 and V307
+Score = 0.9161450171845323
+Test feature: C12_V308 / interaction of C12 and V308
+Score = 0.9161110252350548
+Test feature: C12_V310 / interaction of C12 and V310
+Score = 0.916055990413073
+Test feature: C12_V312 / interaction of C12 and V312
+Score = 0.9160003990492847
+Test feature: C12_V313 / interaction of C12 and V313
+Score = 0.9166857145940639
+Test feature: C12_V314 / interaction of C12 and V314
+Score = 0.9164301925766871
+Test feature: C12_V315 / interaction of C12 and V315
+Score = 0.9167295006068481
+Test feature: C12_V317 / interaction of C12 and V317
+Score = 0.9162110135436169
+Test feature: C12_id_01 / interaction of C12 and id_01
+Score = 0.9162652803915304
+Test feature: C12_id_02 / interaction of C12 and id_02
+Score = 0.9162038991544162
+Test feature: C12_id_05 / interaction of C12 and id_05
+Score = 0.916085256545066
+Test feature: C12_id_06 / interaction of C12 and id_06
+Score = 0.9162080833682436
+Test feature: C12_id_13 / interaction of C12 and id_13
+Score = 0.9161687121530219
+Test feature: C12_id_14 / interaction of C12 and id_14
+Score = 0.9162558908073343
+Test feature: C12_id_18 / interaction of C12 and id_18
+Score = 0.9160245050083852
+Test feature: C12_id_19 / interaction of C12 and id_19
+Score = 0.9161536522006913
+Test feature: C12_id_20 / interaction of C12 and id_20
+Score = 0.9162517560043074
+Test feature: C12_id_30 / interaction of C12 and id_30
+Score = 0.9162590075180548
+Test feature: C12_id_31 / interaction of C12 and id_31
+Score = 0.9161832611440518
+Test feature: C12_id_33 / interaction of C12 and id_33
+Score = 0.9162563489105691
+Test feature: C12_DeviceInfo / interaction of C12 and DeviceInfo
+Score = 0.9161838471791265
+Test feature: C13_C14 / interaction of C13 and C14
+Score = 0.9164369626224025
+Test feature: C13_D1 / interaction of C13 and D1
+Score = 0.9163567738727161
+Test feature: C13_D2 / interaction of C13 and D2
+Score = 0.9162594250201667
+Test feature: C13_D3 / interaction of C13 and D3
+Score = 0.9162628293860122
+Test feature: C13_D4 / interaction of C13 and D4
+Score = 0.9163435551430025
+Test feature: C13_D5 / interaction of C13 and D5
+Score = 0.9164472883306004
+Test feature: C13_D6 / interaction of C13 and D6
+Score = 0.9165027368243998
+Test feature: C13_D8 / interaction of C13 and D8
+Score = 0.9165247039469925
+Test feature: C13_D9 / interaction of C13 and D9
+Score = 0.9165348860191427
+Test feature: C13_D10 / interaction of C13 and D10
+Score = 0.9164977781250034
+Test feature: C13_D11 / interaction of C13 and D11
+Score = 0.9163919670025819
+Test feature: C13_D12 / interaction of C13 and D12
+Score = 0.9165520698698318
+Test feature: C13_D14 / interaction of C13 and D14
+Score = 0.9164045801627183
+Test feature: C13_D15 / interaction of C13 and D15
+Score = 0.9164263523233156
+Test feature: C13_M4 / interaction of C13 and M4
+Score = 0.9166405546546047
+Test feature: C13_M5 / interaction of C13 and M5
+Score = 0.9164765828067738
+Test feature: C13_M6 / interaction of C13 and M6
+Score = 0.9165735708455709
+Test feature: C13_M8 / interaction of C13 and M8
+Score = 0.9164916465893986
+Test feature: C13_M9 / interaction of C13 and M9
+Score = 0.9165390817238537
+Test feature: C13_V45 / interaction of C13 and V45
+Score = 0.9164093760745939
+Test feature: C13_V62 / interaction of C13 and V62
+Score = 0.9165064476138136
+Test feature: C13_V76 / interaction of C13 and V76
+Score = 0.9164770416760675
+Test feature: C13_V82 / interaction of C13 and V82
+Score = 0.9165480403999067
+Test feature: C13_V83 / interaction of C13 and V83
+Score = 0.9164600409134603
+Test feature: C13_V127 / interaction of C13 and V127
+Score = 0.916383837585311
+Test feature: C13_V130 / interaction of C13 and V130
+Score = 0.9164802752107735
+Test feature: C13_V307 / interaction of C13 and V307
+Score = 0.9162798201898532
+Test feature: C13_V308 / interaction of C13 and V308
+Score = 0.9162840940325744
+Test feature: C13_V310 / interaction of C13 and V310
+Score = 0.916388158157626
+Test feature: C13_V312 / interaction of C13 and V312
+Score = 0.9163834541728211
+Test feature: C13_V313 / interaction of C13 and V313
+Score = 0.9163092640475161
+Test feature: C13_V314 / interaction of C13 and V314
+Score = 0.9163257412088507
+Test feature: C13_V315 / interaction of C13 and V315
+Score = 0.9162651402027479
+Test feature: C13_V317 / interaction of C13 and V317
+Score = 0.9165753699349474
+Test feature: C13_id_01 / interaction of C13 and id_01
+Score = 0.9162029756703869
+Test feature: C13_id_02 / interaction of C13 and id_02
+Score = 0.9161644789114236
+Test feature: C13_id_05 / interaction of C13 and id_05
+Score = 0.9161115522835925
+Test feature: C13_id_06 / interaction of C13 and id_06
+Score = 0.9162393964096739
+Test feature: C13_id_13 / interaction of C13 and id_13
+Score = 0.9163117238627118
+Test feature: C13_id_14 / interaction of C13 and id_14
+Score = 0.9165407616910678
+Test feature: C13_id_18 / interaction of C13 and id_18
+Score = 0.916543584618192
+Test feature: C13_id_19 / interaction of C13 and id_19
+Score = 0.9163370455573202
+Test feature: C13_id_20 / interaction of C13 and id_20
+Score = 0.9164003557307977
+Test feature: C13_id_30 / interaction of C13 and id_30
+Score = 0.9164243463980307
+Test feature: C13_id_31 / interaction of C13 and id_31
+Score = 0.9164101034475395
+Test feature: C13_id_33 / interaction of C13 and id_33
+Score = 0.9165289080783515
+Test feature: C13_DeviceInfo / interaction of C13 and DeviceInfo
+Score = 0.9164114574566826
+Test feature: C14_D1 / interaction of C14 and D1
+Score = 0.9166065853038654
+Test feature: C14_D2 / interaction of C14 and D2
+Score = 0.9164534313570889
+Test feature: C14_D3 / interaction of C14 and D3
+Score = 0.9159423965150424
+Test feature: C14_D4 / interaction of C14 and D4
+Score = 0.9164493432836563
+Test feature: C14_D5 / interaction of C14 and D5
+Score = 0.9160482919039451
+Test feature: C14_D6 / interaction of C14 and D6
+Score = 0.916381205406858
+Test feature: C14_D8 / interaction of C14 and D8
+Score = 0.9164643342906839
+Test feature: C14_D9 / interaction of C14 and D9
+Score = 0.916377485424737
+Test feature: C14_D10 / interaction of C14 and D10
+Score = 0.9165007615414718
+Test feature: C14_D11 / interaction of C14 and D11
+Score = 0.916378810323641
+Test feature: C14_D12 / interaction of C14 and D12
+Score = 0.9162542376521823
+Test feature: C14_D14 / interaction of C14 and D14
+Score = 0.9163678223575058
+Test feature: C14_D15 / interaction of C14 and D15
+Score = 0.9165094057503377
+Test feature: C14_M4 / interaction of C14 and M4
+Score = 0.9165170533165472
+Test feature: C14_M5 / interaction of C14 and M5
+Score = 0.9165573545272991
+Test feature: C14_M6 / interaction of C14 and M6
+Score = 0.916728774382991
+Test feature: C14_M8 / interaction of C14 and M8
+Score = 0.9164080193842447
+Test feature: C14_M9 / interaction of C14 and M9
+Score = 0.9163759946740766
+Test feature: C14_V45 / interaction of C14 and V45
+Score = 0.9163897653492427
+Test feature: C14_V62 / interaction of C14 and V62
+Score = 0.9164582877876193
+Test feature: C14_V76 / interaction of C14 and V76
+Score = 0.9164697070449271
+Test feature: C14_V82 / interaction of C14 and V82
+Score = 0.9164500725717493
+Test feature: C14_V83 / interaction of C14 and V83
+Score = 0.9164370327167939
+Test feature: C14_V127 / interaction of C14 and V127
+Score = 0.9164434978710586
+Test feature: C14_V130 / interaction of C14 and V130
+Score = 0.9164660119597211
+Test feature: C14_V307 / interaction of C14 and V307
+Score = 0.9163398167754675
+Test feature: C14_V308 / interaction of C14 and V308
+Score = 0.9163315402748835
+Test feature: C14_V310 / interaction of C14 and V310
+Score = 0.9163745598457171
+Test feature: C14_V312 / interaction of C14 and V312
+Score = 0.916356700714089
+Test feature: C14_V313 / interaction of C14 and V313
+Score = 0.9165595140473979
+Test feature: C14_V314 / interaction of C14 and V314
+Score = 0.9163349699206734
+Test feature: C14_V315 / interaction of C14 and V315
+Score = 0.9163971072579427
+Test feature: C14_V317 / interaction of C14 and V317
+Score = 0.9163903605770244
+Test feature: C14_id_01 / interaction of C14 and id_01
+Score = 0.9161230450825568
+Test feature: C14_id_02 / interaction of C14 and id_02
+Score = 0.9160710350442249
+Test feature: C14_id_05 / interaction of C14 and id_05
+Score = 0.9160219796951518
+Test feature: C14_id_06 / interaction of C14 and id_06
+Score = 0.9162482949501016
+Test feature: C14_id_13 / interaction of C14 and id_13
+Score = 0.9162668833698228
+Test feature: C14_id_14 / interaction of C14 and id_14
+Score = 0.91633502201268
+Test feature: C14_id_18 / interaction of C14 and id_18
+Score = 0.9165208552669728
+Test feature: C14_id_19 / interaction of C14 and id_19
+Score = 0.9162368293462293
+Test feature: C14_id_20 / interaction of C14 and id_20
+Score = 0.9161346910933053
+Test feature: C14_id_30 / interaction of C14 and id_30
+Score = 0.9164542881939922
+Test feature: C14_id_31 / interaction of C14 and id_31
+Score = 0.9165000131019057
+Test feature: C14_id_33 / interaction of C14 and id_33
+Score = 0.9164285156737089
+Test feature: C14_DeviceInfo / interaction of C14 and DeviceInfo
+Score = 0.9164205662802842
+Test feature: D1_D2 / interaction of D1 and D2
+Score = 0.9164026592699736
+Test feature: D1_D3 / interaction of D1 and D3
+Score = 0.9164564320098829
+Test feature: D1_D4 / interaction of D1 and D4
+Score = 0.9165912311849091
+Test feature: D1_D5 / interaction of D1 and D5
+Score = 0.9164801943915574
+Test feature: D1_D6 / interaction of D1 and D6
+Score = 0.9164876550393901
+Test feature: D1_D8 / interaction of D1 and D8
+Score = 0.9164969534625748
+Test feature: D1_D9 / interaction of D1 and D9
+Score = 0.916521829310891
+Test feature: D1_D10 / interaction of D1 and D10
+Score = 0.9164382741152755
+Test feature: D1_D11 / interaction of D1 and D11
+Score = 0.9165031144914478
+Test feature: D1_D12 / interaction of D1 and D12
+Score = 0.9163641188456516
+Test feature: D1_D14 / interaction of D1 and D14
+Score = 0.9163832392932936
+Test feature: D1_D15 / interaction of D1 and D15
+Score = 0.916495104962398
+Test feature: D1_M4 / interaction of D1 and M4
+Score = 0.9165750202290498
+Test feature: D1_M5 / interaction of D1 and M5
+Score = 0.9165186137785695
+Test feature: D1_M6 / interaction of D1 and M6
+Score = 0.9165317654781274
+Test feature: D1_M8 / interaction of D1 and M8
+Score = 0.9163699198268319
+Test feature: D1_M9 / interaction of D1 and M9
+Score = 0.9163742798511815
+Test feature: D1_V45 / interaction of D1 and V45
+Score = 0.9165629230095971
+Test feature: D1_V62 / interaction of D1 and V62
+Score = 0.9164202464506848
+Test feature: D1_V76 / interaction of D1 and V76
+Score = 0.9164856085129823
+Test feature: D1_V82 / interaction of D1 and V82
+Score = 0.9165247843831792
+Test feature: D1_V83 / interaction of D1 and V83
+Score = 0.9164526905781122
+Test feature: D1_V127 / interaction of D1 and V127
+Score = 0.916436739316227
+Test feature: D1_V130 / interaction of D1 and V130
+Score = 0.916463117789117
+Test feature: D1_V307 / interaction of D1 and V307
+Score = 0.9164464759251146
+Test feature: D1_V308 / interaction of D1 and V308
+Score = 0.9164575719055577
+Test feature: D1_V310 / interaction of D1 and V310
+Score = 0.9164331177726774
+Test feature: D1_V312 / interaction of D1 and V312
+Score = 0.916470731648734
+Test feature: D1_V313 / interaction of D1 and V313
+Score = 0.9164405841659521
+Test feature: D1_V314 / interaction of D1 and V314
+Score = 0.9164110817047818
+Test feature: D1_V315 / interaction of D1 and V315
+Score = 0.9164598425041998
+Test feature: D1_V317 / interaction of D1 and V317
+Score = 0.916439425501834
+Test feature: D1_id_01 / interaction of D1 and id_01
+Score = 0.916546498706328
+Test feature: D1_id_02 / interaction of D1 and id_02
+Score = 0.9164216073543578
+Test feature: D1_id_05 / interaction of D1 and id_05
+Score = 0.9164149265545071
+Test feature: D1_id_06 / interaction of D1 and id_06
+Score = 0.9164846639623326
+Test feature: D1_id_13 / interaction of D1 and id_13
+Score = 0.9164639535594
+Test feature: D1_id_14 / interaction of D1 and id_14
+Score = 0.91651979925475
+Test feature: D1_id_18 / interaction of D1 and id_18
+Score = 0.9164496079570135
+Test feature: D1_id_19 / interaction of D1 and id_19
+Score = 0.9164763135370628
+Test feature: D1_id_20 / interaction of D1 and id_20
+Score = 0.916458708353967
+Test feature: D1_id_30 / interaction of D1 and id_30
+Score = 0.9165908247906517
+Test feature: D1_id_31 / interaction of D1 and id_31
+Score = 0.9165073611390772
+Test feature: D1_id_33 / interaction of D1 and id_33
+Score = 0.9164594165754397
+Test feature: D1_DeviceInfo / interaction of D1 and DeviceInfo
+Score = 0.9164582073514326
+Test feature: D2_D3 / interaction of D2 and D3
+Score = 0.9164470849419569
+Test feature: D2_D4 / interaction of D2 and D4
+Score = 0.9165904314193956
+Test feature: D2_D5 / interaction of D2 and D5
+Score = 0.916458975325501
+Test feature: D2_D6 / interaction of D2 and D6
+Score = 0.916391749058819
+Test feature: D2_D8 / interaction of D2 and D8
+Score = 0.9164514717783687
+Test feature: D2_D9 / interaction of D2 and D9
+Score = 0.9164449821102182
+Test feature: D2_D10 / interaction of D2 and D10
+Score = 0.916562980464016
+Test feature: D2_D11 / interaction of D2 and D11
+Score = 0.916518915222755
+Test feature: D2_D12 / interaction of D2 and D12
+Score = 0.9164137169474705
+Test feature: D2_D14 / interaction of D2 and D14
+Score = 0.9163770303857378
+Test feature: D2_D15 / interaction of D2 and D15
+Score = 0.9163519174421856
+Test feature: D2_M4 / interaction of D2 and M4
+Score = 0.9164467704747699
+Test feature: D2_M5 / interaction of D2 and M5
+Score = 0.9165153503675657
+Test feature: D2_M6 / interaction of D2 and M6
+Score = 0.9165356965094812
+Test feature: D2_M8 / interaction of D2 and M8
+Score = 0.916465914670238
+Test feature: D2_M9 / interaction of D2 and M9
+Score = 0.9164630074766325
+Test feature: D2_V45 / interaction of D2 and V45
+Score = 0.9163064468658337
+Test feature: D2_V62 / interaction of D2 and V62
+Score = 0.9164388130377267
+Test feature: D2_V76 / interaction of D2 and V76
+Score = 0.9163452952458419
+Test feature: D2_V82 / interaction of D2 and V82
+Score = 0.9164380174855369
+Test feature: D2_V83 / interaction of D2 and V83
+Score = 0.9164816590962146
+Test feature: D2_V127 / interaction of D2 and V127
+Score = 0.916373775401382
+Test feature: D2_V130 / interaction of D2 and V130
+Score = 0.9164940282665844
+Test feature: D2_V307 / interaction of D2 and V307
+Score = 0.9164510477647558
+Test feature: D2_V308 / interaction of D2 and V308
+Score = 0.9165334025460418
+Test feature: D2_V310 / interaction of D2 and V310
+Score = 0.9165336813914892
+Test feature: D2_V312 / interaction of D2 and V312
+Score = 0.9166012037399444
+Test feature: D2_V313 / interaction of D2 and V313
+Score = 0.9165492768190053
+Test feature: D2_V314 / interaction of D2 and V314
+Score = 0.9164487193286652
+Test feature: D2_V315 / interaction of D2 and V315
+Score = 0.9165185429181193
+Test feature: D2_V317 / interaction of D2 and V317
+Score = 0.9164477058327124
+Test feature: D2_id_01 / interaction of D2 and id_01
+Score = 0.9165176845490982
+Test feature: D2_id_02 / interaction of D2 and id_02
+Score = 0.9164431799566064
+Test feature: D2_id_05 / interaction of D2 and id_05
+Score = 0.916387503560278
+Test feature: D2_id_06 / interaction of D2 and id_06
+Score = 0.9164589883485028
+Test feature: D2_id_13 / interaction of D2 and id_13
+Score = 0.9164586148947788
+Test feature: D2_id_14 / interaction of D2 and id_14
+Score = 0.9164943710779516
+Test feature: D2_id_18 / interaction of D2 and id_18
+Score = 0.9164453754814743
+Test feature: D2_id_19 / interaction of D2 and id_19
+Score = 0.9163956873677324
+Test feature: D2_id_20 / interaction of D2 and id_20
+Score = 0.9164918407853352
+Test feature: D2_id_30 / interaction of D2 and id_30
+Score = 0.9165022714436052
+Test feature: D2_id_31 / interaction of D2 and id_31
+Score = 0.9164988919746746
+Test feature: D2_id_33 / interaction of D2 and id_33
+Score = 0.9163866363815792
+Test feature: D2_DeviceInfo / interaction of D2 and DeviceInfo
+Score = 0.9164850209457899
+Test feature: D3_D4 / interaction of D3 and D4
+Score = 0.9162553105177014
+Test feature: D3_D5 / interaction of D3 and D5
+Score = 0.916308304941747
+Test feature: D3_D6 / interaction of D3 and D6
+Score = 0.9162989391053772
+Test feature: D3_D8 / interaction of D3 and D8
+Score = 0.9164792080906964
+Test feature: D3_D9 / interaction of D3 and D9
+Score = 0.9163008036927913
+Test feature: D3_D10 / interaction of D3 and D10
+Score = 0.9163751853328262
+Test feature: D3_D11 / interaction of D3 and D11
+Score = 0.9163500509396242
+Test feature: D3_D12 / interaction of D3 and D12
+Score = 0.9164822064453136
+Test feature: D3_D14 / interaction of D3 and D14
+Score = 0.9163802520465306
+Test feature: D3_D15 / interaction of D3 and D15
+Score = 0.9163465090662025
+Test feature: D3_M4 / interaction of D3 and M4
+Score = 0.9162320671409461
+Test feature: D3_M5 / interaction of D3 and M5
+Score = 0.9164231494309663
+Test feature: D3_M6 / interaction of D3 and M6
+Score = 0.9162886103329437
+Test feature: D3_M8 / interaction of D3 and M8
+Score = 0.9162542246291806
+Test feature: D3_M9 / interaction of D3 and M9
+Score = 0.9163302529128666
+Test feature: D3_V45 / interaction of D3 and V45
+Score = 0.9164580330730282
+Test feature: D3_V62 / interaction of D3 and V62
+Score = 0.9162941362989714
+Test feature: D3_V76 / interaction of D3 and V76
+Score = 0.9163170801466883
+Test feature: D3_V82 / interaction of D3 and V82
+Score = 0.9163587380477898
+Test feature: D3_V83 / interaction of D3 and V83
+Score = 0.916398081301861
+Test feature: D3_V127 / interaction of D3 and V127
+Score = 0.9163101829351921
+Test feature: D3_V130 / interaction of D3 and V130
+Score = 0.9164269475510972
+Test feature: D3_V307 / interaction of D3 and V307
+Score = 0.9162963816176692
+Test feature: D3_V308 / interaction of D3 and V308
+Score = 0.9163965101150137
+Test feature: D3_V310 / interaction of D3 and V310
+Score = 0.916338165535463
+Test feature: D3_V312 / interaction of D3 and V312
+Score = 0.9163925499734209
+Test feature: D3_V313 / interaction of D3 and V313
+Score = 0.9163068329595301
+Test feature: D3_V314 / interaction of D3 and V314
+Score = 0.9163006765270105
+Test feature: D3_V315 / interaction of D3 and V315
+Score = 0.9163758575495295
+Test feature: D3_V317 / interaction of D3 and V317
+Score = 0.9163402626217595
+Test feature: D3_id_01 / interaction of D3 and id_01
+Score = 0.9163733667089476
+Test feature: D3_id_02 / interaction of D3 and id_02
+Score = 0.9164150571675531
+Test feature: D3_id_05 / interaction of D3 and id_05
+Score = 0.9162595096696775
+Test feature: D3_id_06 / interaction of D3 and id_06
+Score = 0.9163543872161471
+Test feature: D3_id_13 / interaction of D3 and id_13
+Score = 0.916393560405138
+Test feature: D3_id_14 / interaction of D3 and id_14
+Score = 0.9163995904379356
+Test feature: D3_id_18 / interaction of D3 and id_18
+Score = 0.9163836131300471
+Test feature: D3_id_19 / interaction of D3 and id_19
+Score = 0.9163374684218447
+Test feature: D3_id_20 / interaction of D3 and id_20
+Score = 0.916446830610395
+Test feature: D3_id_30 / interaction of D3 and id_30
+Score = 0.9164221976027567
+Test feature: D3_id_31 / interaction of D3 and id_31
+Score = 0.916280712265467
+Test feature: D3_id_33 / interaction of D3 and id_33
+Score = 0.9163718391874588
+Test feature: D3_DeviceInfo / interaction of D3 and DeviceInfo
+Score = 0.916358715832081
+Test feature: D4_D5 / interaction of D4 and D5
+Score = 0.9162563818511027
+Test feature: D4_D6 / interaction of D4 and D6
+Score = 0.9162686173441907
+Test feature: D4_D8 / interaction of D4 and D8
+Score = 0.9164150085228114
+Test feature: D4_D9 / interaction of D4 and D9
+Score = 0.9163861242711905
+Test feature: D4_D10 / interaction of D4 and D10
+Score = 0.9163178845085556
+Test feature: D4_D11 / interaction of D4 and D11
+Score = 0.9164104474079952
+Test feature: D4_D12 / interaction of D4 and D12
+Score = 0.9162932365627685
+Test feature: D4_D14 / interaction of D4 and D14
+Score = 0.9163137837951507
+Test feature: D4_D15 / interaction of D4 and D15
+Score = 0.9163236188426098
+Test feature: D4_M4 / interaction of D4 and M4
+Score = 0.9164033429775605
+Test feature: D4_M5 / interaction of D4 and M5
+Score = 0.9163340609917635
+Test feature: D4_M6 / interaction of D4 and M6
+Score = 0.9162742091912857
+Test feature: D4_M8 / interaction of D4 and M8
+Score = 0.9162848612405837
+Test feature: D4_M9 / interaction of D4 and M9
+Score = 0.9162730915113195
+Test feature: D4_V45 / interaction of D4 and V45
+Score = 0.916281483303771
+Test feature: D4_V62 / interaction of D4 and V62
+Score = 0.9163526428999839
+Test feature: D4_V76 / interaction of D4 and V76
+Score = 0.9162856288316227
+Test feature: D4_V82 / interaction of D4 and V82
+Score = 0.916316734654115
+Test feature: D4_V83 / interaction of D4 and V83
+Score = 0.9163023166591606
+Test feature: D4_V127 / interaction of D4 and V127
+Score = 0.9163095942189111
+Test feature: D4_V130 / interaction of D4 and V130
+Score = 0.9161934175532281
+Test feature: D4_V307 / interaction of D4 and V307
+Score = 0.9160195007284829
+Test feature: D4_V308 / interaction of D4 and V308
+Score = 0.916223793704598
+Test feature: D4_V310 / interaction of D4 and V310
+Score = 0.9161383291071217
+Test feature: D4_V312 / interaction of D4 and V312
+Score = 0.9162339106617398
+Test feature: D4_V313 / interaction of D4 and V313
+Score = 0.9164130715428295
+Test feature: D4_V314 / interaction of D4 and V314
+Score = 0.9162763361538799
+Test feature: D4_V315 / interaction of D4 and V315
+Score = 0.9162566013269835
+Test feature: D4_V317 / interaction of D4 and V317
+Score = 0.9162743283134478
+Test feature: D4_id_01 / interaction of D4 and id_01
+Score = 0.9163666839939492
+Test feature: D4_id_02 / interaction of D4 and id_02
+Score = 0.9163818385545563
+Test feature: D4_id_05 / interaction of D4 and id_05
+Score = 0.9163580650650275
+Test feature: D4_id_06 / interaction of D4 and id_06
+Score = 0.9163099672896059
+Test feature: D4_id_13 / interaction of D4 and id_13
+Score = 0.9162907909196627
+Test feature: D4_id_14 / interaction of D4 and id_14
+Score = 0.9163032903200493
+Test feature: D4_id_18 / interaction of D4 and id_18
+Score = 0.9163280577710282
+Test feature: D4_id_19 / interaction of D4 and id_19
+Score = 0.9164058885913556
+Test feature: D4_id_20 / interaction of D4 and id_20
+Score = 0.9163568489464903
+Test feature: D4_id_30 / interaction of D4 and id_30
+Score = 0.9163658784829936
+Test feature: D4_id_31 / interaction of D4 and id_31
+Score = 0.9163229171326379
+Test feature: D4_id_33 / interaction of D4 and id_33
+Score = 0.916238280261826
+Test feature: D4_DeviceInfo / interaction of D4 and DeviceInfo
+Score = 0.9163845990478785
+Test feature: D5_D6 / interaction of D5 and D6
+Score = 0.9163520756333527
+Test feature: D5_D8 / interaction of D5 and D8
+Score = 0.916347881843789
+Test feature: D5_D9 / interaction of D5 and D9
+Score = 0.9163242290085404
+Test feature: D5_D10 / interaction of D5 and D10
+Score = 0.9163155246640491
+Test feature: D5_D11 / interaction of D5 and D11
+Score = 0.9163456089469699
+Test feature: D5_D12 / interaction of D5 and D12
+Score = 0.9164390309814896
+Test feature: D5_D14 / interaction of D5 and D14
+Score = 0.9163559518914937
+Test feature: D5_D15 / interaction of D5 and D15
+Score = 0.9163710283140909
+Test feature: D5_M4 / interaction of D5 and M4
+Score = 0.9164546049593563
+Test feature: D5_M5 / interaction of D5 and M5
+Score = 0.9163757916684624
+Test feature: D5_M6 / interaction of D5 and M6
+Score = 0.9164254422453173
+Test feature: D5_M8 / interaction of D5 and M8
+Score = 0.9163374852751409
+Test feature: D5_M9 / interaction of D5 and M9
+Score = 0.9163805737912775
+Test feature: D5_V45 / interaction of D5 and V45
+Score = 0.916442226596279
+Test feature: D5_V62 / interaction of D5 and V62
+Score = 0.916379034012846
+Test feature: D5_V76 / interaction of D5 and V76
+Score = 0.9164425977518263
+Test feature: D5_V82 / interaction of D5 and V82
+Score = 0.9163405763228877
+Test feature: D5_V83 / interaction of D5 and V83
+Score = 0.9164754134178307
+Test feature: D5_V127 / interaction of D5 and V127
+Score = 0.9163513432810241
+Test feature: D5_V130 / interaction of D5 and V130
+Score = 0.9162839864012959
+Test feature: D5_V307 / interaction of D5 and V307
+Score = 0.9162490257703125
+Test feature: D5_V308 / interaction of D5 and V308
+Score = 0.9162888420657674
+Test feature: D5_V310 / interaction of D5 and V310
+Score = 0.9164886440214574
+Test feature: D5_V312 / interaction of D5 and V312
+Score = 0.9164641619274265
+Test feature: D5_V313 / interaction of D5 and V313
+Score = 0.9164669553612824
+Test feature: D5_V314 / interaction of D5 and V314
+Score = 0.9164894315300283
+Test feature: D5_V315 / interaction of D5 and V315
+Score = 0.9164413674611991
+Test feature: D5_V317 / interaction of D5 and V317
+Score = 0.9162771673278094
+Test feature: D5_id_01 / interaction of D5 and id_01
+Score = 0.916359381154254
+Test feature: D5_id_02 / interaction of D5 and id_02
+Score = 0.9163808419118997
+Test feature: D5_id_05 / interaction of D5 and id_05
+Score = 0.9162720975498695
+Test feature: D5_id_06 / interaction of D5 and id_06
+Score = 0.916418214096367
+Test feature: D5_id_13 / interaction of D5 and id_13
+Score = 0.9163136788450786
+Test feature: D5_id_14 / interaction of D5 and id_14
+Score = 0.9163301858827111
+Test feature: D5_id_18 / interaction of D5 and id_18
+Score = 0.9162912156993345
+Test feature: D5_id_19 / interaction of D5 and id_19
+Score = 0.9164124502690445
+Test feature: D5_id_20 / interaction of D5 and id_20
+Score = 0.9163606803901844
+Test feature: D5_id_30 / interaction of D5 and id_30
+Score = 0.9163498467849217
+Test feature: D5_id_31 / interaction of D5 and id_31
+Score = 0.9163876123406449
+Test feature: D5_id_33 / interaction of D5 and id_33
+Score = 0.9162777621725618
+Test feature: D5_DeviceInfo / interaction of D5 and DeviceInfo
+Score = 0.9163575682758173
+Test feature: D6_D8 / interaction of D6 and D8
+Score = 0.9164184515746325
+Test feature: D6_D9 / interaction of D6 and D9
+Score = 0.9163755453805191
+Test feature: D6_D10 / interaction of D6 and D10
+Score = 0.9164013642473674
+Test feature: D6_D11 / interaction of D6 and D11
+Score = 0.9163887449587598
+Test feature: D6_D12 / interaction of D6 and D12
+Score = 0.9164135924628958
+Test feature: D6_D14 / interaction of D6 and D14
+Score = 0.9163721685927949
+Test feature: D6_D15 / interaction of D6 and D15
+Score = 0.9166095874887772
+Test feature: D6_M4 / interaction of D6 and M4
+Score = 0.9167750631102705
+Test feature: D6_M5 / interaction of D6 and M5
+Score = 0.9167029168301674
+Test feature: D6_M6 / interaction of D6 and M6
+Score = 0.9165738255601623
+Test feature: D6_M8 / interaction of D6 and M8
+Score = 0.9163985501299206
+Test feature: D6_M9 / interaction of D6 and M9
+Score = 0.9164048352603389
+Test feature: D6_V45 / interaction of D6 and V45
+Score = 0.9163523433709457
+Test feature: D6_V62 / interaction of D6 and V62
+Score = 0.9165903318317357
+Test feature: D6_V76 / interaction of D6 and V76
+Score = 0.9164168033988637
+Test feature: D6_V82 / interaction of D6 and V82
+Score = 0.9164142175669755
+Test feature: D6_V83 / interaction of D6 and V83
+Score = 0.916357220485067
+Test feature: D6_V127 / interaction of D6 and V127
+Score = 0.9163974807116667
+Test feature: D6_V130 / interaction of D6 and V130
+Score = 0.9164005388188797
+Test feature: D6_V307 / interaction of D6 and V307
+Score = 0.9163634883791596
+Test feature: D6_V308 / interaction of D6 and V308
+Score = 0.9163518986737419
+Test feature: D6_V310 / interaction of D6 and V310
+Score = 0.9164480831167311
+Test feature: D6_V312 / interaction of D6 and V312
+Score = 0.9163496602495745
+Test feature: D6_V313 / interaction of D6 and V313
+Score = 0.9164785630690847
+Test feature: D6_V314 / interaction of D6 and V314
+Score = 0.9164377742618295
+Test feature: D6_V315 / interaction of D6 and V315
+Score = 0.9164255950740721
+Test feature: D6_V317 / interaction of D6 and V317
+Score = 0.9162301834020591
+Test feature: D6_id_01 / interaction of D6 and id_01
+Score = 0.9164903937000332
+Test feature: D6_id_02 / interaction of D6 and id_02
+Score = 0.9164727053995444
+Test feature: D6_id_05 / interaction of D6 and id_05
+Score = 0.9164218873488938
+Test feature: D6_id_06 / interaction of D6 and id_06
+Score = 0.9163515907180556
+Test feature: D6_id_13 / interaction of D6 and id_13
+Score = 0.9164373165416242
+Test feature: D6_id_14 / interaction of D6 and id_14
+Score = 0.9164524756985849
+Test feature: D6_id_18 / interaction of D6 and id_18
+Score = 0.9163915115805532
+Test feature: D6_id_19 / interaction of D6 and id_19
+Score = 0.9165231951939473
+Test feature: D6_id_20 / interaction of D6 and id_20
+Score = 0.9164007862559114
+Test feature: D6_id_30 / interaction of D6 and id_30
+Score = 0.9164737909050357
