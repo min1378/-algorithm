@@ -1,39 +1,47 @@
 import sys
 sys.stdin = open('1952.txt', 'r')
 TC = int(input())
-def cal():
-    while continue_list:
-        temp = continue_list.pop()
-        for three_count in range(len(temp)//3):
-            for one_count in range(len(temp), -3, len(temp)- (3 * three_count)):
-                for day_count in range()
-                    result = cost_info[1] * one_count + cost_info[2] * three_count
-                    if min_cost < result:
-                        min_cost = result
 
+def compare(i, sum_min):
+    global  min_cost_sum
+    clone_sum = sum_min
 
+    for j in range(i, 10):
+        one_month_costs = month_min_cost[j] + month_min_cost[j+1] + month_min_cost[j+2]
+        if one_month_costs > three_month_cost:
+            sum_min = clone_sum - one_month_costs + three_month_cost
+
+            if min_cost_sum > sum_min:
+                min_cost_sum = sum_min
+
+            if j + 3 <= 10:
+                compare(j + 3, sum_min)
 for test_case in range(1, TC+1):
     cost_info = list(map(int, input().split()))
     plan_info = list(map(int, input().split()))
-    min_cost = min(cost_info[-1], cost_info[0] * sum(plan_info))
-    print(min_cost)
-    continue_list = []
-    count = 0
+    day_cost = cost_info[0]
+    month_cost = cost_info[1]
+    three_month_cost = cost_info[2]
+    year_cost = cost_info[3]
+    month_min_cost = [0] * 12
 
-    start = -1
-    for i in range(len(plan_info)):
-        if start == -1 and plan_info[i] > 0:
-            start = i
+    for month in range(12):
+        month_min_cost[month] = min(plan_info[month] * day_cost, month_cost)
+    min_cost_sum = sum(month_min_cost)
 
-        if start != -1 and plan_info[i] == 0:
-            continue_list.append(plan_info[start:i])
-            start = -1
+    print(month_min_cost)
+    compare(0, min_cost_sum)
 
-        if i == len(plan_info) - 1 and start != -1:
-            continue_list.append(plan_info[start:])
+    if min_cost_sum > year_cost:
+        min_cost_sum = year_cost
 
-    print(continue_list)
-    cal()
+    print("#{} {}".format(test_case, min_cost_sum))
+
+
+
+
+
+
 
 
 
