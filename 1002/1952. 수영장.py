@@ -29,7 +29,7 @@ for test_case in range(1, TC+1):
         month_min_cost[month] = min(plan_info[month] * day_cost, month_cost)
     min_cost_sum = sum(month_min_cost)
 
-    print(month_min_cost)
+
     compare(0, min_cost_sum)
 
     if min_cost_sum > year_cost:
