@@ -63,7 +63,7 @@ def BFS(x, y, count, key):
 # TC = int(input())
 # for test_case in range(1, TC+1):
 
-min_count = 100000000
+min_count = -1
 N, M = map(int, input().split())
 data = [input() for _ in range(N)]
 visited = [[[0 for depth in range(1 << 6)] for col in range(M)] for row in range(N)]
@@ -71,8 +71,6 @@ for i in range(N):
     for j in range(M):
         if data[i][j] == '0':
             BFS(i, j, 0, 0)
-if min_count == 100000000:
-    min_count = -1
 print(min_count)
 
 
