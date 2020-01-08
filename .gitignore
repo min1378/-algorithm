@@ -12,5 +12,5 @@
 *.txt
 *.wpd
 *.wps
-
+/text
 # End of https://www.gitignore.io/api/text
