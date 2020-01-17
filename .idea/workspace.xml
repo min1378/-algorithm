@@ -14,63 +14,85 @@
     <session id="1928124379">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="1793" />
+          <entry key="py" value="3281" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1793" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="3281" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOJ/2583. 영역 구하기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-              <folding>
-                <marker date="1579048811790" expanded="true" signature="101:189" ph="..." />
-                <marker date="1579048811790" expanded="true" signature="228:656" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOJ/2583.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.63910353">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BOJ/2583. 영역 구하기.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="266">
+                  <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+                  <folding>
+                    <marker date="1579048902810" expanded="true" signature="101:189" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/BOJ/7569. 토마토.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="48" />
+                  <folding>
+                    <marker date="1579256751773" expanded="true" signature="242:243" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/BOJ/7569.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm_study/nextPermutation.py" />
-        <option value="$PROJECT_DIR$/BOJ/14499.txt" />
         <option value="$PROJECT_DIR$/BOJ/14499. 주사위 굴리기.py" />
         <option value="$PROJECT_DIR$/BOJ/17281.txt" />
         <option value="$PROJECT_DIR$/BOJ/17281. 야구공그림.py" />
@@ -148,6 +168,8 @@
         <option value="$PROJECT_DIR$/BOJ/2583. 영역 구학.py" />
         <option value="$PROJECT_DIR$/BOJ/2583.txt" />
         <option value="$PROJECT_DIR$/BOJ/2583. 영역 구하기.py" />
+        <option value="$PROJECT_DIR$/BOJ/7569.txt" />
+        <option value="$PROJECT_DIR$/BOJ/7569. 토마토.py" />
       </list>
     </option>
   </component>
@@ -182,7 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,6 +230,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,28 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2583. 영역 구하기">
-    <configuration name="1012. 유기농 배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1012. 유기농 배추.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.7569. 토마토">
     <configuration name="11403. 경로 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,20 +346,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7569. 토마토" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/7569. 토마토.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1012. 유기농 배추" />
       <item itemvalue="Python.11403. 경로 찾기" />
       <item itemvalue="Python.11724. 연결 요소의 개수" />
       <item itemvalue="Python.6603. 로또" />
       <item itemvalue="Python.2583. 영역 구하기" />
+      <item itemvalue="Python.7569. 토마토" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7569. 토마토" />
         <item itemvalue="Python.2583. 영역 구하기" />
         <item itemvalue="Python.6603. 로또" />
         <item itemvalue="Python.11724. 연결 요소의 개수" />
         <item itemvalue="Python.11403. 경로 찾기" />
-        <item itemvalue="Python.1012. 유기농 배추" />
       </list>
     </recent_temporary>
   </component>
@@ -377,14 +399,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4863158" visible="true" weight="0.14474554" />
       <window_info id="Structure" order="1" sideWeight="0.5136842" side_tool="true" weight="0.14540648" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.26136363" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.26136363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,12 +478,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/경진대회/2.txt" />
-    <entry file="file://$PROJECT_DIR$/BOJ/1920. 수 찾기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/경진대회/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -701,11 +716,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BOJ/2583. 영역 구하기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        <state relative-caret-position="266">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
-            <marker date="1579048811790" expanded="true" signature="101:189" ph="..." />
-            <marker date="1579048811790" expanded="true" signature="228:656" ph="..." />
+            <marker date="1579048902810" expanded="true" signature="101:189" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ/7569.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ/7569. 토마토.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="48" />
+          <folding>
+            <marker date="1579256751773" expanded="true" signature="242:243" ph="..." />
           </folding>
         </state>
       </provider>
