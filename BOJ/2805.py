@@ -3,7 +3,6 @@ sys.stdin = open('i2805.txt', 'r')
 input = sys.stdin.readline
 def solve():
     global M
-    length = len(data)
     left = 0
     right = data[-1]
     
@@ -11,16 +10,17 @@ def solve():
         mid = (left + right) // 2
         
         result = 0
-        print(left, right, mid, result)
+        print(left, right, mid)
         if left == right:
-            return 0
+            return mid
         for i in range(N-1, -1, -1):
+            print("data", i, data[i])
             if data[i] < mid :
                 break
             result += data[i] - mid
-        print(result)
+        print("result", result)
         if result < M:
-            right = mid
+            right = mid - 1
         elif result > M:
             left = mid + 1
         else:
