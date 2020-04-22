@@ -9,7 +9,7 @@ def solution(lines):
         time_to_second_start = time_to_second_end - float(temp[2][:-1]) + 0.001
         times.append([time_to_second_start, time_to_second_end, i])
 
-    # print(times)
+    print(times)
     for time in times:
         start = time[0]
         end = time[1]
@@ -25,15 +25,16 @@ def solution(lines):
             elif (time2[0] < start < time2[1]) and (time2[0] < start + 1 <
                                                     time2[1]):
                 count += 1
-        for time3 in times:
-            if index == time3[2]:
-                continue
-            if (end <= time3[0] < end + 1) or (end <= time3[1] < end + 1):
-                count2 += 1
-            elif (time3[0] < end < time3[1]) and (time3[0] < end + 1 <
-                                                  time3[1]):
-                count2 += 1
-        answer = max(answer, count, count2)
+        # for time3 in times:
+        #     if index == time3[2]:
+        #         continue
+        #     if (end <= time3[0] < end + 1) or (end <= time3[1] < end + 1):
+        #         count2 += 1
+        #     elif (time3[0] < end < time3[1]) and (time3[0] < end + 1 <
+        #                                           time3[1]):
+        #         count2 += 1
+
+        answer = max(answer, count)
 
     return answer
 
