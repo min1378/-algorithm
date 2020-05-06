@@ -1,0 +1,1 @@
+const array = Array.apply(null, new Array(5)).map(Number.prototype.valueOf, 0)
