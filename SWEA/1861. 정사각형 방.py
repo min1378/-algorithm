@@ -1,4 +1,5 @@
 import sys
+sys.stdin = open('1861.txt', 'r')
 from collections import deque
 from pprint import pprint
 def isWall(x, y):
@@ -36,7 +37,7 @@ def DFS(start_x, start_y):
 
 
 
-sys.stdin = open('1861.txt', 'r')
+
 TC=int(input())
 for test_case in range(1, TC+1):
     N = int(input())

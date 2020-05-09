@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/text
 # Edit at https://www.gitignore.io/?templates=text
-
+.vscode
 ### Text ###
 *.doc
 *.docx
