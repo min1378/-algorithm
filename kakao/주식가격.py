@@ -11,5 +11,5 @@ def solution(prices):
                 answer[i] += 1
     return answer
 
-
+for i in range()
 print(solution([ 1, 2, 3, 2, 3, 1 ]))
