@@ -1,6 +1,5 @@
-test = [1, 2, 3]
-
-if 1 in test:
-    idx = test.index(1)
-    test.pop(idx)
-    print(idx, test)
+temp ="111111111111"
+temp3 =[4, 3, 2]
+temp4 = sorted(temp3)
+temp2 = temp.replace("1", "2")
+print(temp, temp2, temp4)

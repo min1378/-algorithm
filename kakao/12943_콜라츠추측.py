@@ -1,4 +1,6 @@
 def solution(num):
+    if num == 1:
+        return 0
     count = 0
     while count < 500:
         if num % 2:
