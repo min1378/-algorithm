@@ -8,9 +8,12 @@ def maxInversion(arr):
         
     for i in range(2, 3):
         for j in range(len(arr)):
-            for h in range(a[j], 100000):
+            h = a[j]
+            while h <= 100000:
                 bit[h] = (bit[h] + dp[j])
+                h += h&(-h)
                 dp[j] = 0
+            while h <= h
             for h in range(a[j]-1, 100000):
                 dp[j] = (dp[j] + bit[h])
         
