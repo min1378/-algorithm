@@ -1,20 +1,14 @@
-function solution(weights) {
-    let arr = weights.map((e) => [e, 1])
-    arr.sort((a, b) => a[0] - b[0])
-    let flag = true;
-    while (flag) {
-        flag = false
-        let i = 1;
-        while (i < arr.length) {
-            if (arr[i - 1][0] === arr[i][0]) {
-                arr.splice(i - 1, 2, [arr[i][0] * 2, arr[i - 1][1] + arr[i][1]])
-                arr.sort((a, b) => a[0] - b[0])
-                flag = true
-            } else {
-                i++;
+function solution(heights) {
+    return heights.map((v, i) => {
+        console.log(v, i)
+        while (i) {
+            i--;
+            if (heights[i] > v) {
+                return i + 1;
             }
         }
-    }
-    arr.sort((a, b) => b[1] - a[1])
-    return arr[0][1]
+        return 0;
+    });
 }
+
+solution([6, 9, 5, 7, 4])
