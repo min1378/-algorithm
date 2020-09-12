@@ -34,18 +34,9 @@ const isAnagram = (s, t) => {
     sCharsMap[char] = sCharsMap[char] + 1 || 1
   }
 
-  for (const char2 of t) {
-    if (tCharsMap[char2] >= 0) tCharsMap[char2] += 1
-    else tCharsMap[char2] = 1
-  }
-  for (const sChar in sCharsMap) {
-    if (sCharsMap[sChar] !== tCharsMap[sChar]) return false
-  }
-
-  for (const tChar in tCharsMap) {
-    if (sCharsMap[tChar] !== tCharsMap[tChar]) return false
+  for (const tChar of t) {
+    if (!sCharsMap[tChar]) return false
+    else sCharsMap[tChar]--
   }
   return true
 }
-
-isAnagram("aa", "a")

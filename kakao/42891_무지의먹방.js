@@ -41,5 +41,5 @@ function solution(food_times, k) {
 }
 
 for (let i = 1; i < 12; i++) {
-  console.log(i, solution([4, 1, 1, 5], 10))
+  console.log(i, solution([4, 1, 1, 5], i))
 }
