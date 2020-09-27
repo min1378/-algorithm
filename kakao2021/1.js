@@ -1,5 +1,6 @@
 function solution(new_id) {
   if (validate(new_id)) return new_id
+  debugger
   new_id = new_id.toLowerCase() // 소문자
   const regExp = /[\{\}\[\]\/?,;:|\)*~`!^\+<>@\#$%&\\\=\(\'\"]/gi
   if (regExp.test(new_id)) new_id = new_id.replace(regExp, "")

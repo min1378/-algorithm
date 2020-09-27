@@ -42,6 +42,7 @@ function solution(n, s, a, b, fares) {
   for (const fare of fares) {
     addEdge(fare[0], fare[1], fare[2])
   }
+
   dfs([s], 0, [false, false])
   return answer
 }

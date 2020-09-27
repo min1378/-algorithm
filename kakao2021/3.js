@@ -1,4 +1,5 @@
 function solution(info, query) {
+  debugger
   const answer = []
   const infoMap = {
     java: {
