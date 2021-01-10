@@ -12,3 +12,4 @@ function solution(N) {
 }
 
 console.log(solution(10))
+console.log(solution(14))

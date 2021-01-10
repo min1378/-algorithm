@@ -13,16 +13,6 @@ def solution(m, k):
             lst[i] = "0"
             index = i + 1
             break
-            # if lst[i] == lst2[j]:
-            #     lst[i] = "0"
-            #     lst2[j] = '*'
-            # else:
-            #     if lst2[j] != '*':
-            #         checked.append(lst[i])
-            #         lst[i] = "0"
-            #         # j=j+1
-    # print(m, k) 
-    # print(checked, lst, lst2)
     answer = '' 
     # for i in checked:
     #     if i != '0':

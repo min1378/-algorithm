@@ -18,7 +18,7 @@ function solution(n, customers) {
     const [hour, min, sec] = time[1].split(":")
     const spandTime = time[2]
 
-    for (let i = 1; i < month + 1; i++) {
+    for (let i = 1; i < month; i++) {
       day += days[i]
     }
     const newSeconds = day * 24 * 60 * 60 + Number(hour) * 60 * 60 + Number(min) * 60 + Number(sec) + Number(spandTime) * 60
@@ -35,7 +35,7 @@ function solution(n, customers) {
     let checkIndex = [-1, 0]
     for (let i = 0; i < kiosks.length; i++) {
       const lastTime = kiosks[i].custom[kiosks[i].custom.length - 1]
-      if (lastTime <= newSeconds && checkIndex[1] <= newSeconds - lastTime) {
+      if (lastTime <= newSeconds && checkIndex[1] < newSeconds - lastTime) {
         checkIndex = [i, newSeconds - lastTime]
       }
     }
@@ -45,6 +45,7 @@ function solution(n, customers) {
   for (let i = 0; i < kiosks.length; i++) {
     if (answer < kiosks[i].custom.length) answer = kiosks[i].custom.length
   }
+  console.log(kiosks)
   return answer
 }
 

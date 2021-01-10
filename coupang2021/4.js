@@ -7,6 +7,7 @@ function solution(depar, hub, dest, roads) {
     if (adjMap[road[0]]) adjMap[road[0]].push(road[1])
     else adjMap[road[0]] = [road[1]]
   }
+  console.log(adjMap)
   let stack = [depar]
   let checkMap = {}
   while (stack.length) {
@@ -48,13 +49,3 @@ console.log(
     ["BUSAN", "YEOSU"],
   ])
 )
-function getRandomInt(min, max) {
-  min = Math.ceil(min)
-  max = Math.floor(max)
-  return Math.floor(Math.random() * (max - min)) + min //최댓값은 제외, 최솟값은 포함
-}
-const check = Array.from({ length: 100000 }, (v, i) => {
-  return [getRandomInt(1, 10000), getRandomInt(1, 10000)].sort()
-})
-console.log(check)
-console.log(solution(0, 2, 500, check))
