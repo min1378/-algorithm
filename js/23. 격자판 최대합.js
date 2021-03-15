@@ -1,4 +1,21 @@
-const solution = (n, array) => {};
+const solution = (n, array) => {
+  let answer = 0;
+  let diagonalSum = 0;
+  let 
+  for(let i = 0; i<n; i++){
+    let horizonSum = 0;
+    let verticalSum = 0;
+    for(let j = 0; i<n; j++){
+      horizonSum += array[i][j];
+      verticalSum += array[j][i];
+      // 대각선
+      if(i === j){
+        array[i][j]
+      }
+      if(i )
+    }
+  }
+};
 solution(5, [
   [10, 13, 10, 12, 15],
   [12, 39, 30, 23, 11],
