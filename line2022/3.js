@@ -19,10 +19,15 @@ const solution = (enter, leave) => {
     }
   }
   result.shift();
+  console.log(result);
   return result;
 };
-solution([1, 3, 2], [1, 2, 3]);
-solution([1, 4, 2, 3], [2, 1, 3, 4]);
-solution([3, 2, 1], [2, 1, 3]);
-solution([3, 2, 1], [1, 3, 2]);
-solution([1, 4, 2, 3], [2, 1, 4, 3]);
+
+const enter = Array.from(Array(1000), (v, i) => i);
+const leave = Array.from(Array(1000), (v, i) => 1000 - i);
+solution(enter, leave);
+// solution([1, 3, 2], [1, 2, 3]);
+// solution([1, 4, 2, 3], [2, 1, 3, 4]);
+// solution([3, 2, 1], [2, 1, 3]);
+// solution([3, 2, 1], [1, 3, 2]);
+// solution([1, 4, 2, 3], [2, 1, 4, 3]);
