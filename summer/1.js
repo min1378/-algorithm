@@ -12,7 +12,7 @@ function solution(code, day, data) {
     return 1;
   });
 
-  const answer = result.map(({ price }) => price);
+  const answer = result.map(({ price }) => Number(price));
   return answer;
 }
 const isNeedData = (str, code, day) => {
